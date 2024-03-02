@@ -1,0 +1,783 @@
+Thịnh Đinh Quốc
+Feb 26
+Phương pháp dạy, cách tính điểm quá trình?
+Machine learning là gì?
+Hiểu rõ cách học ML
+Làm quen với python trên colab
+
+Minh Lê Nhật
+Feb 26
+-Tại sao nên học ML:
+->Ứng dụng thực tế có triển vọng vô hạn
+->Nhu cầu nhân lực trình độ cao
+->Chuyên môn
+-Giới thiệu sơ qua các khái niệm, thuật ngữ trong ML
+-ML là bỏ Input vào thuật toán và nhận output, ta học về Thuật toán, cách sử dụng thuật toán và hiểu ý tưởng chung của thuật toán, không cần hiểu sâu cách hoạt động
+-Học thuật toán là học ngôn ngữ lập trình, cụ thể là Python cùng với các Libraries/Framework.
+-Mục tiêu của môn học:
+->Giúp sinh viên hiểu thuật ngữ, thuật toán.
+->Hiểu và thực các bước xây dựng ứng dụng.
+- Hiểu được cách thành thạo sử dụng colab/Jupyter (code và test case được viết vào file riêng).
+
+Sử Trần Giang
+Feb 26
+1. Tại sao lại học Machine Learning
+a. Vì những thành tựu khoa học - công nghệ hiện đại hiện nay hầu như đều có ứng dụng của M.L ( ví dụ như chatbot, gpt, ...)
+b. Có nhiều cơ hội việc làm hơn
+c. Cung cấp nền tảng kiến thức cao hơn để hướng tới chuyên môn sâu và cao hơn
+2. Xây dựng route map 
+a. Biết về các khái niệm của Machine Learning
+b. Biết được bản chất của M.L là các thuật toán
+c. Đích tới của việc học M.L là sử dụng các thuật toán để xây dựng các ứng dụng 
+--> Xây dựng xong ứng dụng mới coi là thành công
+3. Cần những gì để xây dựng ứng dụng
+a. Ngôn ngữ lập trình (Python)
+b. Học, biết các libraries/framework cần thiết
+4. Vấn đề về việc giảng dạy/kiến thức được cung cấp suốt quá trình học, nền tảng để sinh viên thực hành và có thể trao đổi với giáo viên
+
+Nam Bùi Thanh
+Feb 26
+Tại sao lại học Máy Học ?
+Nhiều ứng dụng,nhu cầu nhân lực,liên quan đến chuyên ngành CS
+Deep Learning,Machine learning , AI .Các kiến thức từ môn ML là cơ sở để học môn DL
+Học gì trong ML : Khái niệm, thuật toán 
+các từ khóa quan trọng : Supervised Learning,Unsupervised Learning,overfitting,Clustering,F1 score , Gradient Descent ,Training-testing,feature,model
+Các thuật toán trong ML được dùng để giải quyết các bài toán như thế nào 
+Học để có thể dùng nó như công cụ và đi chuyên sâu vào công cụ đó 
+Học cách sử dụng thuật toán để build 1 ứng dụng 
+NNLT:Python ,libraries/framework
+Mục tiêu : Giải quyết các bài toán cụ thể với những công cụ đã có -> Chương trình chạy thành công
+Được thầy An hướng dẫn các thao tác làm việc trên máy chủ và thực hành python trên wecode
+
+Kiệt Trần Quang Anh
+Feb 26
+- Thầy Duy đã giảng cho chúng em về các khái niệm trong ML, tại sao chúng em cần học môn này cũng như nhắc nhở rằng 5 tuần cuối sẽ là 5 tuần thực hành khó khăn để tạo ra sản phẩm sau quá trình học.
+- Kỹ năng sử dụng Google Colab, ngôn ngữ lập trình Python cũng như các khóa học bổ ích
+- Em đã học được cách sử dụng Google Colab cũng như ngôn ngữ Python để phục vụ cho việc học ML 
+
+Hùng Nguyễn Thanh
+Feb 26
+* Các vấn đề đã được trình bày hôm nay
+Tại sao cần học máy học
+- Máy học là nền tảng AI
+- Cơ hội việc làm cao hơn so với các ngành nghề khác
+- Machine Learning có nhiều ứng dụng và góp mặt phần lớn vào các công nghệ và ứng dụng AI hiện nay
+Biểu đồ giữa AI, Machine Learning và Deep Learning:
+- AI là giấc mộng của con người nhằm tạo ra một cỗ máy có thể thay thế hoàn toàn một con người.
+- Machine Learning đem lại rất nhiều thành tựu trong lĩnh vực AI: Alphago, Google Deepmind, AI có thể chơi cờ vua, cờ vây và đánh bại các kỳ thủ thuộc top thế giới, etc.
+- Machine Learning có thể được hiểu là tương tự như AI
+- Deep Learning là một nhánh con của Machine Learning
+- Nên học Machine Learning trước Deep Learning.
+- Một ví dụ nổi tiếng của Deep Learning hay Machine Learning là chatGPT.
+* Các kỹ năng được hướng dẫn:
+- Tùy theo cách tiếp cận, mà mình có thể lựa chọn phương pháp học tập phù hợp, có nên tìm hiểu và đào sâu thuật toán và các mô hình hay không.
+- Có 2 phương hướng tiếp cạnh môn Machine Learning:
++ Thứ nhất: Học đào sâu, chi tiết, hiểu rõ ràng một mô hình và các tham số của nó.
++ Thứ hai: Học cách sử dụng và ứng dụng thuật toán vào thực tế
+- Trong môn này, ta nên tập trung nhiều hơn vào việc ứng dụng như thế nào với các thuật toán và mô hình vào thực tế
+- Sử dụng -> Xây dựng ứng dụng -> {Python( Lập trình), Libraries, Frameworks,etc}
+* Những kiến thức, kỹ năng đã được học thêm:
+Concept of Machine Learning:
+- Feature, Training, Testing, Supervised/ Unsupervised Learning, Clustering, Gradient Descent, F1-Score, model, parameters,  optimization, classification, regression, ...
+- Machine Learning cơ bản là thuật toán. Ta sẽ huấn luyện mô hình dựa trên tập train, và sẽ kiểm thử mô hình dựa trên tập test. Ta cần đưa đầu vào là input cho mô hình và mô hình sẽ ta kết quả output có thể là một số hoặc tập hợp các số.
+- Thuật toán bao gồm 2 thứ: idea và code. Nếu bạn có thể trả lời thứ đằng sau các thuật toán Machine Learning là gì, thì bạn sẽ lên được một tầm cao mới. Tuy nhiên nó không dễ để thực hiện và quá trình này sẽ hơi "painful".
+
+Tuấn Phạm Nguyễn Anh
+Feb 26
+- thảo luận về mục tiêu môn học ,giới thiệu sơ bộ về máy học, máy học hỗ trợ công việc tương lai, dưới sự phát triển của AI các công việc đơn giản dần bị thay thế, đến hiện tại thì máy học khó có thể bị như vậy. 
+- kỹ năng tự học, các khóa học trên coursera.
+- Tìm ra động lực học môn máy học của bản thân, biết được một số thuật ngữ trong máy học, giới thiệu sơ bộ về máy học
+
+Thúy An Trương Huỳnh
+Feb 26
+Nội dung buổi học:
+- Tại sao cần phải học máy học? (tất cả công nghệ tiên tiến hiện nay đều liên quan đến máy học, nhiều cơ hội việc làm, kiến thức, kỹ năng cần thiết,...)
+- Giới thiệu một số khái niệm trong máy học.
+- Cách học: học - hỏi
+- Giải thích đơn giản máy học là gì
+- Thứ tự học: học các khái niệm - học thuật toán - áp dụng để xây dựng những ứng dụng
+- Syllabus, roadmap
+- Cách sử dụng gg colab, jupyter notebook
+- Nguồn học python
+Bên cạnh đó em học được một điều mới đó là cách tư duy khi mình gặp khó khăn trong vấn đề nào đó. Buông bỏ nếu thực sự không cần thiết. Giống như câu nói trong phim Mai "Đâu có ai sống thiếu ai mà chết đâu"
+
+Vy Lê Hoài Yến
+Feb 26
+*Các vấn đề đã được trình bày:
+1. Tại sao cần học Máy học?
+- Máy học đang ngày càng trở nên phổ biến, đạt được nhiều thành tựu và có thể áp dụng ở nhiều lĩnh vực khác nhau.
+- Đang cần nhiều nhân lực -> nhiều cơ hội việc làm.
+- Thuật toán máy học có độ khó cao, kết hợp nhiều kiến thức khác nhau -> nâng cao kiến thức.
+2. Học gì ở môn CS114?
+- Các khái niệm cơ bản: supervised/ unsupervised learning, clustering, gradient descent, overfitting, model, feature, F1-core, training/ testing, data set...
+- Algorithm (thuật toán): cách giải quyết một bài toán.
++ Idea (ý tưởng)
++ Code (cài đặt thuật toán)
+- Apply: xây dựng ứng dụng máy học giải quyết một bài toán cụ thể.
++ Ngôn ngữ lập trình: Python
++ Libraries/ frame work
+3. Kiến thức cần đạt được:
+- Hiểu và diễn giải được mô hình toán học, cách hoạt động của các mô hình máy học.
+- Cài đặt một ứng dụng máy học giải quyết bài toán cụ thể trong vực VC, NLP...
+
+* Các kỹ năng được hướng dẫn: Kiến thức cơ bản về Python:
+- Tài liệu học Python: python.org
+- Tìm hiểu máy ảo chạy Python, cụ thể là Google Colaboratory:
++ Cách hoạt động
++ Cấu trúc
++ Cách sử dụng
+
+* Bài học mới:
+- Hiểu thêm về Máy học và các ứng dụng của Máy học: máy học là một phần của AI, hiện nay được ứng dụng trong nhiều lĩnh vực khác nhau như:
++ Các chatbox cho phép người dùng trò chuyện, tìm kiếm thông tin hỗ trợ cho công việc và học tập.
++ Mở tài khoảng ngân hàng online.
++ Hiển thị các nội dung phù hợp cho từng cá nhân sử dụng trên các trang mạng xã hội....
+- Biết được tầm quan trọng của ý tưởng thuật toán: biết và hiểu được ý tưởng cũng như cách hoạt động của thuật toán giúp chúng ta tìm được thuật toán thích hợp và tối ưu cho bài toán cần giải quyết.
+- Biết được tầm quan trọng của khả năng cài đặt thuật toán (code): có thể nâng cấp cho phù hợp với nhu cầu.
+
+Long Phạm Duy
+Feb 26
+hôm nay em đã có trải nghiệm học đầu tiên vô cùng thú vị với môn học Machine Learning. Thầy Duy đã cho chúng em được những vấn đề mà chúng em cần nắm vững để học môn này, đồng thời cho chúng em hiểu tại sao phai học machine learning.Bên cạnh đó thầy còn cho chúng em điền form để nắm bất lý do tại sao lại chọn học machine learning để đưa ra phương pháp giảng dạy.
+Sau đó thầy An đã hướng dẫn chúng em cách thực hành thông qua gg colabs.
+Hôm nay em đã học được rất nhiều điều từ những động lực cần có để học môn này và cách thực hành với machine learning
+
+Bảo Trịnh Quốc
+Feb 26
+AI gồm hai phần là : general AI và specific AI
+Hiểu được khai quát về ứng dụng của machine learning và hiểu được những khái niệm về machine learning như : supervised ,unsupervised, overfitting, feature, clustering... 
+Hiểu được về trình tự học :
+Machine learning -> algorithms -> idead, code
+Ta phải học khái niệm ròi đến học thuật toán và sau đó sẽ build và use.
+Quan trong phải nắm vẫn kĩ thuật lập trình và vẫn python.
+Cuối cùng e biết thêm về các ứng dụng về machine learning, hiểu được các bước học và một vài ứng dụng về AI
+
+My Cao Huyền
+Feb 26
+- Vì sao cần học Máy học:
++ Nhiều ứng dụng thực tế
++ Cơ hội việc làm cao
+- Học những gì:
++ Các khái niệm (Google, Chat ox...)
++ Keyword
++ Bản chất: bài toán có input -> output -> giải quyết bài toán nào?
++ Sử dụng các thuật toán để xây dựng ứng dụng 
++ Python + các thư viện dùng trong Máy học
+- Thực hành trên GG Colab: Khi điều khiển máy chủ ảo, sử dụng ! ở trước
+
+Linh Phạm Hồ Trúc
+Feb 27
+- Thầy thảo luận về vấn đề:
++Tại sao cần học máy học? 
+    . Máy học phổ biến và ngày càng tiên tiến, ứng dụng trong nhiều lĩnh vực
+    . Có kiến thức, kỹ năng về ML sẽ tăng cơ hội nghề nghiệp hơn do hiện nay đã có nhiều việc mà máy móc có thể thay thế, tuy nhiên "máy" vẫn chưa thể thay thế con người trong việc nghiên cứu phát triển máy học
+   . Máy học là tập hợp nhiều kiến thức nâng cao, chuyên sâu hơn về nhiều mặt.
++ Mối quan hệ : AI-ML-DL
++ Chúng ta học được gì ở CS114?
+   . Các khái niệm cơ bản: supervised learning/ unsupervised learning; clustering; GD;...
+   . ML có bản chất là thuật toán ( từ Input qua các thao tác số học, logic cho ra Output): được xây dựng từ idea và hiện thực bằng code
+   . Apply: chúng ta nắm thuật toán từ đó code và xây dựng thành một ứng dụng hoàn chỉnh áp dụng vào cuộc sống.
+- Kỹ năng:
++ Cách dùng gg classroom, colab
++ Viết note
+- Kiến thức mới: hiểu thêm về môn học, mở rộng tầm nhìn về code và cách code chuyên nghiệp hơn, áp dụng thư viện, file.
+
+Quân Nguyễn Đình
+Feb 27
+Buổi học hôm nay:
+* Những vấn đề được trình bày
+- Kiến thức về machine learning 
+- Tại sao chọn học machine learning:
+   + Có rất nhiều ứng dụng trong cuộc sống 
+   + Cần nhiều nguồn nhân lực
+   + Chuyên môn của chúng ta trong công việc 
+- Những khái niệm trong machine learning 
+- Bức tranh toàn cảnh của machine learning 
+- Những từ khóa trong machine learning như: supervised learning, unsupervised learning, reinforcement learning, gradient descent, clustering, overfitting, tensorflow, ....
+* Kỹ năng được hướng dẫn 
+- Kỹ năng xây dựng ứng dụng 
+- Kỹ năng sử dụng thư viện hoặc frame work 
+- Những thuật toán giải quyết các bài toán nào 
+* Sau buổi học em học được: 
+- Sự khác nhau giữa AI, machine learning, deep learning;
+- Những ứng dụng trong cuộc sống thường được sử dụng deep learning
+- AI chia làm 2 loại: General AI và Specific AI
+
+Phúc Nguyễn Hoàng
+Feb 27
+- Các ứng dụng công nghệ hiện đại đa phần sử dụng deep learning nhưng có thể kêu là máy học cũng không sai ( Vì Học sâu < Máy học < AI), máy học là nền tảng để học các ứng dụng AI sau này.
+- Cần nhớ qua các keyword trước ( vd: supervised, unsupervised, RL, dataset, confusion matrix, feature, model,…). Đọc qua tài liệu để hiểu ý nghĩa các keyword, các thuật toán. Ứng dụng vào làm 1 bài toán thực tế.
+- Có cái nhìn tổng quát hơn về môn mình đã chọn học, biết khi ra làm việc sẽ khác thế nào với các bài làm trên trường.
+
+Ngân Đặng Thanh
+Feb 27
+- Các vấn đề đã được trình bày
++Khi học hoặc làm việc thì chúng ta không tránh khỏi gặp những khó khăn, để vướt qua những thử thách đó chúng ta cần phải có một nguồn động lực (motivation), động lực hợp lý và đủ lớn sẽ giúp mình không bỏ cuộc. Câu hỏi vì sao học cái này, làm cái kia là cách đem lại cho chúng ta một nguồn động lực.
++Vì sao phải học Machine Learning
+Nhiều ứng dụng: ML là một phần lớn trong AI, trong ML có phần lớn DL cấu tạo thành. Những thành tựu công nghệ hiện nay liên quan đến ML như ChatGPT,...
+Nhu cầu về nhân lực cho ML: Tương lai những công việc đơn giản, lặp lại thì sẽ thay thế bởi máy tính. Vì vậy, yêu cầu lập trình viên có năng lực cao hơn, có kiến thức sâu và cao hơn.
+ML liên quan nhiều chuyên ngành
++AI trí tuệ nhân tạo nghĩa là muốn tạo ra một cổ máy có suy nghĩ, năng lực giống con người. Trong AI có 2 nhóm là general và specific
++Học gì trong ML?
+Trước tiên, chúng ta sẽ học các khái niệm
+Machine Learning bản chất là thuật toán. Thuật toán là cách giải quyết một bài toán, khi nhập input thì sẽ qua thuật toán và kết quả là output. Thuật toán liên quan đến 2 phần chính là idea và code. Trong chương trình chúng ta chủ yếu học về idea của thuật toán.
+Việc những phần nào chúng ta có thể bỏ qua phụ thuộc vào nhu cầu của bản thân. Nếu chúng ta coi nó là công cụ thì có thể sử dụng thư viện và không cần đi sâu vào những thuật toán đó, nhưng nếu hiểu biết về nó là một phần công việc của chúng ta thì chúng ta nên tìm hiểu sâu về những thuật toán đó.
+Để xây dựng một ứng dụng cần: ngôn ngữ lập trình và libraries. Áp dùng ML để thực hiện các chương trình máy học
+- Các kỹ năng đã được hướng dẫn
++Phương pháp học ML
+Coi trước trên Coursera khóa học đã hướng dẫn
+Lên lớp nghe thầy giảng và take note
++Dùng GG Colab
++Học python qua web chính thức python.org
++Một vài dòng code cơ bản trong python 
+- Bạn đã học thêm được gì MỚI
+Học python.
+
+Giang Lê Huỳnh
+Feb 27
+Các khái niệm cơ bản về Machine Learning
+Loại hình Machine Learning và cài nhìn tổng quát về nó,
+Giới thiệu các kĩ năng vè hướng phát triển ML
+Xem nó là 1 công cụ
+
+Võ Đại Lượng
+Feb 27
+Các vấn đề được trình bày:
++ Tự giới thiệu bản thân
++ Lý do chọn môn cs114, lý do nên học và không nên học môn cs114
++ Bức tranh chung về AI
++ Tại sao cần học máy học, học như nào, cần kiến thức gì
++ Các khái niệm liên quan đến máy học, bản chất của máy học
++ Có cần học chi tiết về máy học
++ Mục tiêu của môn cs114
+
+Các kỹ năng được hướng dẫn:
++ Kỹ năng tự học
++ Kỹ năng lập trình python, sử dụng google colab
++ Cách chạy code trên terminal
+
+Em đã học được thêm những điều sau:
++ Bản chất của thuật toán và tầm quan trọng của việc hiểu idea của thuật toán và coding với những nhu cầu khác nhau 
++ Bản chất và bức hình chung về AI
++ Phương hướng học tập trong tương lại
+
+Nguyên Lâm Hưng
+Feb 27
+* Tại sao lại chọn học Máy học?
+- Có nhiều ứng dụng trong cuộc sống:
+- Giúp giải bài tập bằng chatbot
+- Mở tài khoản ngân hàng bằng máy tính, không cần phải đi đâu xa
+- Nhận được nhiều thông tin, tin tức khi mở máy tính
+- Máy tính có thể giải rất nhiều bài toán khác nhau: giao thông, chế tạo thuốc, dự đoán ung thư
+- Các bài toán đã biết và chưa biết cũng có thể được giải quyết bằng máy học
+- Nhiều cơ hội việc làm bởi còn nhiều thứ chưa được khám phá ra
+- Kiến thức về máy học và trí tuệ nhân tạo chưa được thay thế nhiều bởi máy tính
+- Máy học là sự kết hợp của toán, coding, các giải thuật và rất nhiều thứ khác
+==> Tóm lại sẽ có 3 ý chính
++ Rất nhiều ứng dụng trong cuộc sống
++ Nhu cầu nhân lực
++ Chuyên môn
+
+Trong AI thì có 2 khái niệm là:
++ General AI: tương tự như một con người (Nhưng khoảng cách vẫn quá xa để có thể chạm tới)
++ Specific AI (Narrow AI): có khả năng thực hiện các tác vụ, các nhiệm vụ cụ thể: phân loại, nhận dạng,... và đây cũng là loại AI phổ biến và thành công nhất hiện nay.
+- ML chiếm phần lớn các thành tựu của AI
+- Và ML, DL thì chiếm phần lớn trong AI
+
+* Vậy sẽ học gì trong ML?
+- Trước hết phải biết trên con đường mình chọn sẽ dẫn mình đến đâu
+1. Học về các khái niệm:
++ Supervised Learning
++ Unsupervised Learning
++ Clustering
++ Gradient Descent
++ Overfitting
++ Dataset
++ Model
++ Feature
++ F1-score
++ Training dataset, testing
+- Và học bằng cách hỏi Gemini hoặc GPT
+2. Học thuật toán (ML bản chất là Algorithm)
+- Khi cho input sẽ ra output
+- Học thuật toán:
++ Level 1: Idea
++ Level 2: Cách cài đặt
+- Và vì sao có thể bỏ được một số đặc tính là vì có thể sử dụng một số thứ mà không cần biết chi tiết về nó
+- Tùy vào cách tiếp cận: Dùng như một công cụ hay là đi sâu về thứ đó, tạo ra thứ đó
+3. Xây dựng ứng dụng (Apply)
+- Ngôn ngữ lập trình: Python
+- Libraries/ Framework
+
+* Học như thế nào?
+- Sẽ được biết, được dạy về các kiến thức cần biết, được hướng dẫn trước để có thể luyện tập, và phần quan trọng là bản thân mình phải tự tìm hiểu và tự làm nhiều để có thể cải thiện thêm, cứ thử và sai liên tục như vậy và cuối cùng là có thể đạt được kết quả tốt nhất.
+
+Và từ những gì đã được học trong buổi học này thì em đã hiểu rõ thêm lý do tại sao lại chọn học máy học mà không phải là các câu trả lời mơ hồ, biết được cách tiếp cận vào ML để phục vụ cho mục đích của bản thân và phục vụ trong tương lai, và việc tự học, tự tìm tòi, tự luyện tập càng nhiều càng tốt là rất cần thiết. 
+
+Nhật Trần Vũ
+Feb 27
+- Các ứng dụng của máy học
+- Các thuật ngữ liên quan đến machine learning
+- Lí do tại sao lại chọn học máy học
+
+Sơn Trần Thượng Trường
+Feb 27
+- Mục đính khi chọn môn máy học. Phải xác định mục tiêu rõ ràng, động lực cụ thể để bám theo chứ không thì dễ bị nản, bỏ cuộc
+- Lợi ích khi học máy học. Máy học đang là xu thế, nhiều lĩnh vực trong cuộc sống đều có thể áp dụng được. Nhu cầu việc làm cao.
+- Lộ trình học CS114 là học các khái niệm căn bản của máy học. Sau đó học về các thuật toán của máy học. Trong phần thuật toán có hai hướng : ý tưởng và code. Phần code là biết cách code các thuật toán sao cho tối ưu, phù hợp với vấn đề cần giải quyết. Còn trong môn CS114 tập trung vào các idea của các thuật toán của máy học, biết cách sử dụng và so sánh các thuật toán. Cuối cùng là xây dụng ứng dụng máy học vào các vấn đề thực tế
+- Tích cực tự học slide trên coursera và tham khảo thêm các tài liệu bên ngoài.
+- Biết về Python và Google Colab
+
+Phát Nguyễn Hùng
+Feb 27
+- Quan điểm về việc học môn Máy học:  Trước hết là vì hiện tại trên thế giới có rất nhiều sản phẩm mà có nguồn gốc từ machine learning và hiện đang là xu thế trên thế giới, ví dụ chatgpt, google gemini,...
+- Khái quát về việc tạo ra một model máy học phải thông qua nhiều bước khác nhau, có 2 vấn đề chính cần quan tâm là idea và code, khi ở những vị trí như fresher thì ta không quá quan tâm cấu trúc các thuật toán mà ta có thể sử dụng các thư viện, các api có sẵn để giải quyết các bài toán được đặt ra, nhưng khi ta lên ở một vị trí cao hơn, gặp các bài toán khó hơn, thì lúc đó, ta cần phải can thiệp vào các cấu trúc thuật toán có sẵn để tinh chỉnh hoàn thiện lại phương pháp giải bài toán mà chúng ta gặp phải
+- Thầy cũng đã giới thiệu để em học được thêm một số keyword chính thường thấy trong máy học như : feature, training testing, overfitting, model, gradient descent, clustering, supervised learning, unsupervised learning
+
+Khang Nguyễn Duy
+Feb 27
+* Các vấn đề thầy đã trình bày:
+- Thầy hướng dẫn cách phân biệt giữa các phạm trù giữa ML, DL và AI
+- Thầy nhắc các bạn nhớ về các từ khóa thông dụng trong lĩnh vực ML
+- Thầy giới thiệu về cách mà lớp sẽ hoạt động, các quy tắc của lớp
+- Thầy giới thiệu bao quát về nội dung của môn học ML, vì sao phải học, và sau này sẽ áp dụng như nào
+* Các kỹ năng được hướng dẫn:
+- Hướng dẫn các bạn đăng ký khóa học trên coursera và cách sử dụng
+- Hướng dẫn các bạn cách để rèn luyện tự học để học hiệu quả hơn
+* Nhờ buổi vừa rồi, em đã học hỏi được:
+- Cách phân biệt giữa các categories chính trong ML
+- Có cái nhìn bao quát hơn về môn học
+- Cách sử dụng máy ảo để train mô hình
+
+Thành Trần Ngọc
+Feb 27
+nêu ra lí do tại sao cần học máy học?cách thức học ?trong môn học học những gì?demo một số chương trình chạy bằng python?.
+buổi học đã giúp cho sv có góc nhìn tổng quan về môn học,cách thức học sao cho hiệu quả 
+
+Tâm Nguyễn Vũ Khai
+Feb 27
+*Các Vấn Đề Đã Được Trình Bày
+- Tầm quan trọng của Machine Learning: Được nhấn mạnh là lĩnh vực có ảnh hưởng lớn đến thành tựu công nghệ hiện đại, mang lại nhiều cơ hội trong học tập và việc làm.
+- Machine Learning được mô tả như là một môn học chuyên sâu, mở rộng kiến thức từ môn Data Structures and Algorithms (DSA).
+- Mỗi buổi học sẽ bắt đầu với việc giới thiệu các khái niệm cơ bản của Machine Learning, bao gồm cấu trúc thuật toán từ đầu vào đến đầu ra, hiểu biết về tham số trong thuật toán và cách triển khai bằng code.
+- Machine Learning là một thuật toán gồm có đầu vào input và đầu ra output, có 2 level là idea (hiểu các tham số trong thuật toán) và code
+- Ứng dụng thực tế: Áp dụng Machine Learning trong việc xây dựng ứng dụng (ngôn ngữ lập trình, thư viện và framework)
+- Mục tiêu môn học:
++ Giới thiệu các khái niệm, thuật ngữ, và các thuật toán máy học, đặc biệt tập trung vào các thuật toán supervised learning và unsupervised learning. Các chủ đề sẽ được trình bày bao gồm: regression, classification, regularization, SVM, neural network, clustering, dimensionality reduction.
++ Giới thiệu và hiện thực các bước trong xây dựng một ứng dụng của máy học giải quyết một bài toán cụ thể nào đó, tập trung vào các lĩnh vực như computer vision, natural language processing.
++ Sử dụng các thư viện như scikit-learn và keras để xây dựng một ứng dụng máy học viết bằng ngôn ngữ lập trình Python.
+- Kết quả đầu ra (Learning Outcomes):
+Sau khi hoàn thành khoá học, sinh viên có thể:
++ Hiểu và diễn giải được mô hình toán học, cách hoạt động của các thuật toán máy học
++ Biết cách đánh giá được ưu điểm và nhược điểm của từng thuật toán máy học.
++ Biết cách đánh giá độ chính xác của các thuật toán máy học và chỉ ra được các yếu tố ảnh hưởng đến độ chính xác này.
++ Biết cách lựa chọn thuật toán máy học phù hợp nhất để giải quyết một bài toán thực tế
++ Biết cách vận dụng quy trình xây dựng một ứng dụng của máy học
++ Cài đặt một ứng dụng máy học giải quyết bài toán trong lĩnh vực computer vision, NLP sử dụng các thư viện như scikit-learn, keras, viết bằng ngôn ngữ lập trình Python.
+*Các Kỹ Năng Đã Được Hướng Dẫn
+- Đọc và hiểu các tài liệu tham khảo về Python: Hướng dẫn cách tiếp cận và hiểu các tài liệu tham khảo, nâng cao kỹ năng tự học và nghiên cứu.
+- Sử dụng Colab: Hướng dẫn cách sử dụng Colab, một công cụ quan trọng trong việc lập trình và thử nghiệm các mô hình Machine Learning.
+*Kiến thức mới được học:
+- Có thêm kiến thức về Machine Learning: Cách các thuật toán làm việc từ đầu vào đến đầu ra, bao gồm cả lý thuyết (idea) và thực hành (code). Điều này giúp xây dựng nền tảng vững chắc cho việc hiểu và áp dụng Machine Learning trong thực tế.
+- Hướng dẫn cách đọc và hiểu các tài liệu tham khảo, đặc biệt là liên quan đến Python, giúp phát triển kỹ năng tự học và nghiên cứu
+- Cách sử dụng Colab như một công cụ hỗ trợ mạnh mẽ cho việc lập trình và thử nghiệm các mô hình Machine Learning, giúp tăng hiệu quả học tập và nghiên cứu
+
+Thịnh Nguyễn Ngọc
+Feb 27
+Sau khi học buổi đầu tiên, em được củng cố thêm các kiến thức về AI, Machine learning và Deep Learning và các thuật ngữ liên quan.
+Đầu tiên là AI hay trí tuệ nhân tạo một nghiên cứu phát triển máy tính sao cho nó có thể có nhận thức và xử lý như con người. Thứ và chúng ta vẫn còn cách rất xa để có thể đạt tới và ứng dụng được nó.Trong AI ta có ML và DL.
+
+Vậy ML là gì. Bản chất Machine learning là một thuật toán, có input và output, nó tập trung vào việc xây dựng model và thuật toán để máy tính có thể học từ data set đưa vào và đưa ra cách giải quyết bài toán, trong quá trình đó chúng ta sẽ cải thiện hiệu suất.
+
+Còn Deep learning là 1 phần con của Machine learning nhưng nó tập trung vào việc sử dụng các nơ ron network để học và điều trình 1 số trọng số để cái thiện hiệu suất, với deep learning sử dụng mạng nơ ron với nhiều lớp sẽ giúp nó có khả năng học các dữ liệu phức tạp từ đầu vào dataset. Ứng dụng trong 1 số việc ví dụ như nhận dạng hình ảnh, giọng nói, dịch máy, nhận dạng chữ viết tay......
+
+Trong AI, ML và DL thì hiện nay Deep learning được ứng dụng vào thực tế nhiều hơn cả trong các doanh nghiệp.
+
+Một số khái niệm liên quan được thầy giới thiệu để tìm hiểu như:
+Học có giám sát, không giám sát, gradien learning, overfitting,underfitting, dataset(train-dev-test), F1-Score, model, feature...
+
+Ngoài ra em đã được thầy giúp nhận ra một vấn đề quan trọng hơn cả những điều trên có thể giúp em nhiều trong tư duy của em đó là các tiếp cận một vấn đề gì đó mới. Theo em hiểu được thì đó là việc chúng ta tiếp cận một vấn đề mới có thể là học hay bất kỳ điều gì đó mới thì ta cần được làm rõ :
++ Ta dùng chúng để làm gì và mức độ sử dụng như thế nào? Hay mục đích sử dụng của chúng ta ở mức độ nào?
+
+Em mượn ví dụ mà thầy đã nói trong buổi học, ví dụ như có 1 cái máy chiếu.
+ - Nếu ta chỉ sử dụng nó thì ta chủ yếu cần biết nó kết nối như thế nào, dây nào cắm vào đâu, nút nào để bật nó hay các chức năng liên quan với việc hoạt động nó. Vậy chúng ta không cần thiết biết chi tiết bên trong nó có những gì thông số như thế nào.
+ - Nhưng nếu ta là người sửa chữa nó thì chúng ta cần phải hiểu được cấu trúc bên trong nó gồm những gì thì mới có thể sửa nó được.
+
+Vậy cuối cùng ở đây đó chính ra ta cần xác định chúng ta dùng nó để làm gì, chúng ta cẩn học và hiểu nó ở mức độ nào, giống như trong lập trình nếu chỉ cần sử dụng ở mức độ triển khai đơn giản thì chúng ta có thể dùng API hay thư viện đã được code sẵn, còn nếu chúng ta cần tinh chỉnh sao cho n phù hợp với dự án của mình thì ta cần phải hiểu được sâu bên trong cách hoạt động của thư viện đó thì ta mới có thể tinh chỉnh hay thậm chí là code lại thư viện sao cho n phù hợp với bài toán của mình.
+Tương tự với việc học môn này, với em từ khoa khác nhưng có tìm hiểu 1 chút về mảng Machine learning thì em nghĩ, mục đích đầu tiên chắc chắn là dùng làm 1 môn tự chọn để tích luỹ tín chỉ, mục tiêu thứ 2 của em là có thể hiểu được machine learning, cách hoạt động và triển khái, như thế nào để có thể thực chiến với nó, và dùng kiến thức đó để có thể sử dụng trong quá trình đi làm khi cần.
+
+Em xin cảm ơn thầy với 1 tiết học bổ sung cho em thêm nhiều kiến thức và góc nhìn mới.
+
+
+Dao Dương Đình Phương
+Feb 27
+1. Các vấn đề đã được trình bày trong buổi học:
+- Động lực để học môn Máy học: 
+  + Thành tựu to lớn trong những năm gần đây của máy tính đều liên quan đến Máy học: Chat GPT, nhận diện khuôn mặt, các ứng dụng lớn như facebook, shoppe,...
+  + Học tốt môn này, giúp có nhiều cơ hội việc làm, bởi vì hiện nay tuy các AI - trí tuệ nhân tạo phát triển mạnh nhưng vẫn có những kiến thức quan trọng mà AI chưa thể thay thế được.
+  + Môn học này cũng cung cấp nhiều kiến thức cao hơn về chuyên môn.
+- Học những gì trong môn Machine Learning?
+  + Các khái niệm: supervised learning, unsupervised learning, model, dataset, python, feature, training data, testing data, validation data,...
+  + Các thuật toán Machine Learning: giải quyết cho bài toán nào? Ý tưởng và cách cài đặt các thuật toán đó?
+  + Cách sử dụng thuật toán để xây dựng ứng dụng: ngôn ngữ lập trình python, thư viện hỗ trợ.
+2. Các kỹ năng đã được hướng dẫn:
+- Kỹ năng sử dụng Google Colab, sử dụng terminal để điều khiển, chỉnh sửa nội dung các file chương trình.
+3. Những điều mới đã học được:
+Một vài câu lệnh trên terminal để tạo, chỉnh sửa nội dung, các file chương trình, file input, output.
+
+Xuân Ánh Trần
+Feb 27
+1. Các vấn đề đã được trình bày:
+- Đề cương môn học, cách tính điểm, mục tiêu đầu ra
+- Cách sử dụng classroom, trả lời các câu hỏi tại classroom
+- Lý do chọn ngành, Tổng quan về AI, ML, DL
+- Keyword của ML
+- Giới thiệu về python, cách sử dụng GG colab
+2. Các kỹ năng đã được hướng dẫn:
+- Tìm kiếm keyword của Học Máy
+- Sử dụng Gemini, chatGPT
+- Sử dụng GG colab
+3. Em đã học thêm được:
+- Định nghĩa về ML, tổng quan về ML,DL và AI
+- Bổ sung thêm những keyword quan trọng của ngành
+- 1 số câu lệnh sử dụng trong cmd
+
+Khánh Bùi Gia
+Feb 27
+- Các vấn đề đã được trình bày: Các khái niệm về Machine learning; phân biệt Artificial Intelligence, Machine learning và Deep learning; Các ngộ nhận về Machine learning; giải thích và ví dụ về một quy trình của Machine learning; Giới thiệu tên một số các thuật toán sẽ được giảng dạy trong môn học; Giới thiệu tài liệu môn học.
+- Các kĩ năng đã được hướng dẫn: Kĩ năng học tập tại lớp, kĩ năng tự học ở nhà
+- Bạn đã học thêm được gì mới: Hiểu và phân biệt được các khái niệm trong Máy học; Định hướng lại nghề nghiệp trong tương lai; Tự điều chỉnh kế hoạch học tập của bản thân
+
+THẮNG DƯƠNG VIỆT
+Feb 27
+- Các khóa học trên Coursera
+- Cần có kiến thức nền tảng để có thể tìm hiểu về ML
+- ML là gì
+- Làm quen với gg colab
+
+Đăng Võ Nguyên
+Feb 27
+Các vấn đề được trình bày:
+- Thế nào là máy học? Phân biệt giữa AI, ML, DL
+- Các khái niệm trong máy học như supervised learning, unsupervised learning, gradient descent, linear regression, overfitting, ...
+- Input, output của model
+- Các ví dụ về máy học
+Các kỹ năng đã được hướng dẫn:
+- Ngôn ngữ lập trình Python
+Những bài học mới:
+- Cảm hứng, động lực khi học ML
+- Các thuật ngữ và khái niệm máy học
+
+Duy Nguyễn Hoàng
+Feb 28
+Máy học là gì, vì sao cần học Máy học?
+Máy học là học về thuật toán.
+Có hai hướng tiếp cận với 1 thuật toán: Nắm cách sử dụng và công dụng hoặc hiểu tường tận, có thể tự tinh chỉnh thuật toán. Môn này thiên về hướng đầu tiên.
+Hướng dẫn sử dụng Google Colab.
+Coding Python trên terminal.
+
+BẢO NGUYỄN TÔ THIÊN
+Feb 28
+(Em là Bảo MSSV: 21521857, học lớp CS114.O21.KHCL ạ, hôm trước em quên note nên em xin phép điền vào form của lớp này ạ)
+Các nội dung của buổi học:
+- Thầy phổ biến về nội quy và cách làm việc với thầy trong khóa học;
+- Trả lời 3 câu hỏi chính:
+  + Cách học như thế nào?
+  + Các kiến thức, kĩ năng sẽ được học
+  + Tại sao lại phải học máy học?
+- Đăng kí khóa học ML trên Coursera
+- Thầy An hướng dẫn một vài thao tác, cách sử dụng tối ưu hơn bộ máy ảo được cấp từ google Colab.
+
+Triệu Tấn Đạt
+Feb 28
+- Các vấn đề đã được trình bày:
++ Lí do nên học Máy học
++ Cách học môn Máy học
++ Các kiến thức, kĩ năng cần thiết cho Máy học
+- Các kĩ năng đã được hướng dẫn:
++ Kĩ năng tự học
++ Kĩ năng ứng dụng kiến thức vào thực tiễn
+- Em đã học thêm được: bản chất của trí tuệ nhân tạo, ứng dụng của máy học trong cuộc sống
+
+Yến Phương Hoàng
+Feb 28
+Note môn CS114- Máy học (26/2/2024)
+   1.  Vì sao phải học môn máy học:
+        - Các công nghệ tiên tiến nhất trên thế giới hiện này đều liên quan tới máy học
+        - Tăng cơ hội việc làm
+        - Liên quan tới chuyên môn của ngành Khoa học máy tính
+    2. Học cái gì ở môn Máy học:
+        - Các khái niệm: supervised learning, unsupervised learning, clustering,...
+        - Các thuật toán: gồm idea và code, giải quyết bài toán nào.
+       -  Trong môn học này sẽ học về idea của thuật toán, cách sử dụng thuật toán để xây dựng sản phẩm bằng ngôn ngữ python và các thư viện/ framework
+    3. Có cần học sâu hay chỉ cần học để ứng dụng (dùng các API)?
+          - Học sâu giúp bạn trở nên khác biệt khi đi làm. Dành được các job ít người nhận được
+    4. Làm quen với google colab, giới thiệt về jupyter notebook, sử dụng cmd để chạy code
+        
+
+Ân Đinh Thiên
+Feb 28
+Đã giải thích được câu hỏi Machine Learning là gì? Tại sao phải học môn Máy học?
+Thầy có giải thích sơ qua về cách một project Máy học được thực hiện
+Cách làm việc trên Jupiyter Notebook, cách chạy các cell code, cách sử dụng ngôn ngữ python.
+
+Nguyễn Duy Tâm Anh
+Feb 28
+Các vấn đề được trình bày:
+ - Tại sao nên học môn Máy Học
+ - Học những gì trong Máy Học
+ - Học Máy Học như thế nào?
+Các kỹ năng đã được hướng dẫn:
+ - Kĩ thuật lập trình Python
+ - Cách sử dụng công cụ phục vụ cho việc học như ChatBot,....
+ - Các tiếp nhận một kiến thức mới.
+Học thêm được nhiều cái Mới:
+ - Các khái niệm cần biết trong Máy học
+ - Bản chất của Máy học
+ - AI là gì?
+
+Đăng Phan Thanh
+Feb 28
+- Những vấn đề đã được trình bày trong buổi học:
++ Một số khái niệm liên quan đến máy học
++ Lý do tại sao cần học môn máy học
++ Một số phương pháp học môn máy học hiệu quả
++ Một số ứng dụng của máy học
++ Tương lai của ngành máy học
+- Sau buổi học, em đã học được:
++ Một số khái niệm liên quan đến máy học.
++ Những ứng dụng của máy học trong thực tế.
++ Nhu cầu về nguồn nhân lực ngành khoa học máy tính trong mảng máy học.
+
+TRINH PHAN THỊ NGỌC
+Feb 29
+làm bài tập trên wecode, ngoài ra em có xem các video giới thiệu qua về máy học
+
+Tân Phạm Huỳnh Nhật
+Feb 29
+Tất cả những gì tiên tiến nhất hiện nay đều bắt nguồn từ máy học ChatGPT, thiết bị chuẩn đoán ung thư hay AI … Vì vậy mà máy học hiện nay đang bị hiện trạng thiếu nhân lực
+Vì vậy nếu chúng ta am hiểu máy học sẽ có nhiều cơ hội để làm việc vởi vì luôn cần nhiều thứ để khám phá 
+Học được quá trình học bắt nguồn từ khái niệm tới thuật toán sử dụng và xây dựng ứng dụng đó
+
+Tài Nguyễn Phú
+Feb 29
+1. AI > ML > DL.
+2. AI là ước mơ của con người, chia làm general AI và specific AI.
+- Artificial Narrow Intelligence (ANI, hay specific AI): AI được tạo ra để làm một nhiệm vụ cụ thể, có thể cải thiện hiệu suất theo thời gian.
+- Artificial General Intelligence (AGI, hay general AI): Sử dụng trí tuệ nhân tạo tổng quát, thực hiện được mọi nhiệm vụ con người giao.
+3. ML là thành tựu lớn nhất của AI bởi vì nó là nền tảng cho nhiều đột phá trong lĩnh vực này.
+- Ví dụ: Deep Blue của IBM đánh bại nhà vô địch cờ vua thế giới (1997).
+- DL là một nhánh của ML.
+4. Việc học CS114:
+- Học về khái niệm: supervised learning, unsupervised learning, clustering, model, feature, gradient descent, overfitting, dataset, f1-score, training, testing, ...
+-> Học bằng cách "hỏi": chatGPT, Gemini.
+- Học về bản chất: 
++ Thuật toán là quá trình chuyển biến input thành output thích hợp.
++ 2 cấp độ của thuật toán: idea (beginner, mới ra trường), code (expert, 5-10 năm kinh nghiệm). Sẽ phụ thuộc vào trình độ và năm kinh nghiệm của người làm.
+- Học về việc ứng dụng:
++ Ngôn ngữ lập trình: Python.
++ Các thư viện, framework.
+
+* Các vấn đề đã trình bày: khái quát AI, ML, DL và đặc tính, chức năng, thành tựu của chúng; giới thiệu môn CS114.
+* Các kỹ năng đã được hướng dẫn: cách đặt câu hỏi, tìm hiểu; xác định mục tiêu học.
+* Kiến thức (mới) được học: AGI và ANI, cách học môn CS114.
+
+Hoàng Nguyễn Duy
+Feb 29
+Tại sao cần học Máy học?
+
+- Vì những thành tựu liên quan tới công nghệ tiên tiến nhất gần đây đều xoay quanh Máy học: từ chat bot đến hệ thống xử lý ngôn ngữ tự nhiên, và cả trí tuệ nhân tạo trên các thiết bị như NIC (Neural Interface Chips).
+- Trí tuệ nhân tạo đang xuất hiện trong mọi lĩnh vực của cuộc sống, từ y tế đến giao thông. Lĩnh vực Máy học có khả năng giải quyết một loạt các bài toán, từ những bài toán đã được biết đến những bài toán mới chưa được khám phá. Do đó, việc hiểu biết về Máy học sẽ mở ra nhiều cơ hội việc làm hơn.
+
+Chia ra làm 2 loại AI:
+
+- Specific AI: Tập trung vào việc thực hiện các nhiệm vụ cụ thể và đã có sự phát triển như chat bot, hệ thống nhận diện hình ảnh, và hơn thế nữa.
+- General AI: Là một khái niệm mơ hồ và chưa được phát triển một cách đáng kể. Nó ám chỉ đến khả năng của máy tính hoặc trí tuệ nhân tạo để đối phó với nhiều tình huống và nhiệm vụ như con người.
+
+Machine Learning (ML) chiếm phần lớn thành tựu của AI và bao gồm các khái niệm như:
+
+- Supervised learning: Học có giám sát, trong đó mô hình được huấn luyện trên một tập dữ liệu có nhãn.
+- Unsupervised learning: Học không có giám sát, mô hình được huấn luyện trên dữ liệu không có nhãn.
+- Clustering: Phân cụm dữ liệu thành các nhóm dựa trên sự tương đồng.
+- Model: Mô hình, là biểu diễn toán học của một hệ thống hoặc quy luật trong dữ liệu.
+- Feature: Đặc trưng, là các thuộc tính hoặc đặc điểm của dữ liệu.
+- Gradient descent: Thuật toán tối ưu hóa để điều chỉnh các tham số của mô hình.
+- Overfitting: Hiện tượng mô hình quá tinh chỉnh với dữ liệu huấn luyện và không thể tổng quát hóa được với dữ liệu mới.
+- Dataset: Tập dữ liệu, là tập hợp các mẫu dữ liệu được sử dụng để huấn luyện và kiểm tra mô hình.
+- F1-score: Một phép đo độ chính xác của một mô hình phân loại dựa trên precision và recall.
+- Training, testing: Quá trình huấn luyện và kiểm tra hiệu suất của mô hình.
+
+Machine Learning là một thuật toán, nhận input và thông qua thuật toán để tạo ra output. Quá trình này bao gồm việc xử lý dữ liệu, huấn luyện mô hình và đánh giá hiệu suất của mô hình trên dữ liệu thử nghiệm.
+
+Hoàng Hà Huy
+Yesterday
+1. Tự giới thiệu bản thân và thảo luận tại sao cần phải học Máy học.
+Tại sao cần phải học Máy học ?
+•	Những thành tựu công nghệ hiên nay đều liên quan tới Máy học. Ví dụ: AlphaGo, Sora, Tesla Autopilot ... Máy học xuất hiện trong nhiều lĩnh vực -> Hiểu về Máy học có thể có nhiều cơ hội việc làm hơn.
+•	Machine Learning là một lĩnh vực đang phát triển nhanh chóng, do đó học Machine Learning giúp bạn cập nhật những xu hướng mới nhất trong công nghệ.
+2. Giới thiệu đề cương môn học .
+•	Giới thiệu môn học, mục tiêu và kết quả đầu ra
+3. Giới thiệu sơ qua về AI, Deep Learning và các thuật ngữ phổ biến trong Máy học.
+•	DL ϵ ML ϵ AI : Hầu hết các thành tựu AI bây giờ đều dựa vào các thuật toán của ML. DL thì là thứ chiếm phần lớn trong ML (thứ để đi làm).
+•	Các thuật ngữ phổ biến trong ML:
+o	supervised and unsupervised learning	gradient descent
+o	overfitting	F1-score	dataset ...
+•	ML là một thuật toán có input đầu vào sử dụng thuật toán để giải quyết vấn đề để ra được output cần thiết.
+4.  Hướng dẫn sử dụng công cụ lập trình Python.
+•	Thầy An hướng dẫn cách sử dụng google colab, jupyter notebook, python trên terminal và vài ví dụ cơ bản sử dụng python.
+•	Học được thêm cách dùng sys.stdin.readlines() để đọc file dữ liệu
+
+Nhân Huỳnh Chí
+Yesterday
+#Note buổi học:
+
+##Nguyên nhân học Machine Learning:
+###Những công việc đơn giản sẽ được thay thế bới AI, cần nhiều nguồn lực con người cho những công việc đòi hỏi chuyên môn cao về máy học.
+###Khoa học máy tính là ngành học về máy học, nắm các kiến thức máy học là bước quan trọng, và máy học là môn học cần thiết để đi chuyên sâu trong lĩnh vực khoa học máy tính.
+
+##Học gì trong Machine Learning:
+###Các khái niệm mới: supervised learning, unsupervised, clustering, model, feature, gradient descent, overfitting, data-set, fi-score
+###Khai thác các ứng dụng của Machine Learning: xây dựng ứng dụng vân dụng ngôn ngữ Python; các framework, librabries.
+
+Bảo Lê Trần Gia
+Yesterday
+- Các vấn đề đã được trình bày:
+  + Tại sao cần học máy học
+  + Các thành tựu AI/Machine Learning phổ biến thời gian gần đây
+  + Ở thời điểm hiện tại, ML có thể được hiểu như AI
+  + Deep Learning là 1 tập con của Machine Learning
+  + Các keyword quan trọng trong Machine Learning: train, model, data, overfit...
+
+- Các kĩ năng được hướng dẫn: Thầy An đã hướng dẫn cả lớp chạy và làm việc với Google Colab, một vài dòng lệnh python cơ bản...
+
+- Em đã học thêm được: các kỹ năng tự học ML, các khóa học liên quan đến ML trên Coursera, 
+
+Nguyễn Khánh
+Yesterday
+-Sự liên hệ giữa AI, Machine Learning và Deep Learning
+-Khái niệm thuật ngữ. Học bằng cách đặt câu hỏi
+-Machine Learning là thuật toán.
+-Học về Machine Learning là học về thuật toán. Có 2 phần bao gồm Idea và Building
+-Machine Learning giải quyết các bài toán nào?
+-Tính chất của môn học này là học về nguyên lý, từ đó ứng dụng các vấn đề thực tiễn
+-Không học chuyên sâu, học để phục vụ 1 mục đích nào đó lớn hơn. 
+
+Nhân Nguyễn Trọng
+Yesterday
+- Các vấn đề đã được trình bày:
++ Tại sao nên học tốt môn này: sự phát triển của máy học gần đây, cơ hội việc làm vì có những thứ AI không thể thay thế được.
++ Những khái niệm sẽ được học: Supervised learning, unsupervised learning, data, train, test,...
++ Các mô hình máy học: nên dùng trong bài toán nào, ý tưởng và cài đặt?
++ Các ngôn ngữ và công cụ sẽ sử dụng: Python và các thư viện khác.
+- Các kỹ năng đã được hướng dẫn
++ Sử dụng google classroom, coursera, google colab, dùng terminal để viết và chạy chương trình python đơn giản.
+- Bạn đã học thêm được gì MỚI
++ Các chạy chương trình python với đầu vào và đầu ra là file, cách xem thông tin phần cứng bằng terminal.
+
+Công Tường
+8:31 AM
+- AI được đưa dần vào đời sống, mọi nơi đều có sự xuất hiện của AI
+-> Học ML là để hiểu cách toán dưới ML hoạt động, để hiểu cách hoạt động của công nghệ tương lai này.
+-> ML là 1 thuật toán
+- Dù đôi lúc không cần hiểu thuật toán hoạt động như nào, ta chỉ quan trọng input, output
+- Sau này đi làm có trình, lên lv các thứ thì mới custom được các hàm luật toán, đẩy nó lên tầm cao hơn.
+- Khóa học này chú trọng vào việc học các idea trong ML, hiểu các tham số của các thuật toán ML phổ biến.
+- Cơ bản thì ta sẽ học khái niệm trước, sau đó học thuật toán, cuối cùng là ứng dụng thuật toán vào application.
+- Để làm được điều này thì ta cần ngôn ngữ lập trình, ở ML thì phổ biến nhất là Python.
+- Ta có 2 hướng để áp dụng thuật toán ML là tự code lại hoặc dùng thư viện.
+- Vì thời gian có hạn nên trong đa phần các trường hợp ta sẽ dùng thư viện, mà dùng thư viện thì lại cần hiểu các params của các hàm, object trong thư viện đó
+
+Nga Hồ Thúy
+9:24 AM
+1. Lý do cần học Machine learning:
+- Đa số các thành tựu lớn hiện nay đều có liên quan đến machine learning
+- Học machine learning giúp có được cơ hội việc làm tốt
+2. Học cái gì:
+- Khái niệm: gradient descent, supervised learning, unsupervised learning, deep learning...
+- Bản chất của machine learning: là một thuật toán có input -> output
+- Học cách sử dụng thuật toán để xây dựng ứng dụng
+3. Các kĩ năng được hướng dẫn:
+- Sử dụng google colab 
+- Phương pháp học tập: tham khảo bài giảng từ coursera, tự học, giảng viên hướng dẫn
+4. Những điều mới:
+- Biết được lý do cần học machine learning và tổng quan về machine learning
+
+Hiển Thái Đình Nhật
+11:12 AM
+-Các vấn đề được trình bày:
++Tại sao cần phải học máy học
++Những thành tựu liên quan đến máy học
++Có 2 loại AI: General AI and Specific AI
++Các khái niệm trong máy học
+-Các kỹ năng được hướng dẫn:
++Kỹ năng giải quyết bài toán
++Kỹ năng build ứng dụng
++Kỹ năng thao tác trên Colab
+-Em đã học thêm được gì mới:
++Em chưa học thêm được gì nhiều
+
+Lương Trần Xuân
+1:33 PM
+Các vấn đề đã được trình bày:
+- Thông tin về môn học, về các hoạt động tại lớp.
+- Một số dạng mô hình máy học, một số hình thức của học máy (học giám sát, không giám sát...).
+- Cách mà con người sử dụng, áp dụng máy học trong cuộc sống.
+Các kỹ năng đã được hướng dẫn:
+- Một số thông tin cơ bản về GG Colab, cách sử dụng GG Colab, dùng GG Colab + terminal để code Python (1 số lệnh cơ bản).
+Học thêm được gì MỚI:
+- Các kiến thức về máy học, về cách hoạt động của mô hình máy học.
+- Cách sử dụng terminal để code Python.
+
+Tường Nguyễn Mạnh
+3:08 PM
+Các vấn đề được trình bày:
+- Tại sao nên học Máy học
+- Học những gì trong Máy học
+Các kỹ năng đã được hướng dẫn:
+- Kĩ thuật lập trình Python
+- Kĩ năng sử dụng Google Colab
+Học thêm được nhiều thứ mới:
+- Cách sử dụng Google Colab
+- Biết thêm các khóa học bổ ích 
+- Các khái niệm trong Máy học
+- Đặt ra động lực để học
+
+Quân Thái Ngọc
+4:07 PM
+Xác định mục tiêu, động lực học Machine Learning:
+   - Nhiều ứng dụng trong thực tế (Y tế, giáo dục, tài chính, nhận dạng, tự động hóa, ...)
+   - Nhu cầu nhân lực, nhiều cơ hội việc làm
+Phân loại AI: 
+   - General AI: có khả năng học, hiểu và làm mọi tác vụ như con người
+   - Specific AI: chỉ có thể thực hiện một số nhiệm vụ cụ thể
+Một số khái niệm liên quan đên Machine Learning:
+   - Data
+   - Model
+   - Training
+   - Supervised Learning
+   - Unsupervised Learning
+   - Reinforcement Learning
+   - Overfitting, Underfitting
+   - Optimization
+   - Deep Learning
+   - ...
+Machine Learning có bản chất là thuật toán. Ta cần xác định phải giải quyết bài toán nào, input và output của bài toán 
+Khi xây dựng ứng dụng Machine Learning, thường sử dụng ngôn ngữ lập trình như Python và các framework/library có sẵn
+Thông qua buổi học, em đã học thêm một số khái niệm mới về Machine Learning, phân loại AI.
+
+Thắng Nguyễn Dương Quốc
+9:37 PM
+Buổi học đã giúp hiểu hơn về tầm quan trọng của máy học trong thực tế qua các ví dụ dễ hiểu, nói rõ hơn về việc ứng dụng các thư viện có sẵn trong lập trình máy học và đưa các minh hoạ cơ bản sử dụng python thông qua gg colab
+
+Thân Trần Văn
+10:02 PM
+Các vấn đề được trình bày:
+- Tại sao học ML?
+- ML là học gì?
+- Học ML như thế nào?
+Các kĩ năng được hướng dẫn:
+- Kĩ thuật lập trình bằng python
+- Sử dụng Google colab để lập trình
+- Các sử dụng các công cụ AI để tìm hiểu kiến thức
+Những kiến thức được học mới:
+- Những khái niệm liên quan đến ML
+- Bản chất của ML là cái gì
