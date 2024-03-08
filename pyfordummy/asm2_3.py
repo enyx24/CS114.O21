@@ -7,10 +7,15 @@ for i in range(r):
     #inp = input().decode().split()
     #print(i.np)
     a += [input().decode().split()]
-#print(a)
+print(a)
 t = []
 
+t = [max((len(str(int(item)))) for item in column) for column in a]
+for i in range(1, len(t)):
+    t[i] += 1
+print(t)
 
+'''
 for j in range(c):
     m = 0
     for i in range(r):
@@ -22,7 +27,7 @@ for j in range(c):
             cnt += len(str(a[i][j]))
         m = m if m > cnt else cnt
     t+= [(m+ (1 if j > 0 else 0))]
-
+'''
 for i in range(r):
     s = ""
     for j in range(c):
