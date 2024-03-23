@@ -1,14 +1,30 @@
-import sys
+import os, io
+input = io.BytesIO(os.read(0,os.fstat(0).st_size)).readline
 
-def stdin_gen():
-    for x in sys.stdin.read().split():
-        yield int(x)
-def get_ints(): 
-    return list(map(int, sys.stdin.readline().strip().split()))
+def binarySearch(a, x, comp, k):
+    l = 0
+    r = len(a)-k
+    ans = -1
+    while (l < r):
+        m = l + (r-l)//2
+        if x < a[m]:
+            r = m
+        elif a[m+k] <= x:
+            l = m+1
+        else:
+            middist = abs(x-a[m])
+            midkdist = abs(x-a[m+k])
+            if middist <= midkdist:
+                r = m
+            else:
+                l = m+1
+    return l
 
-
-#print(cin)
-n = get_ints()
-a = get_ints()
-print(n)
-print(a)
+input()
+a = [int(num) for num in input().decode().split()]
+t = input().decode().split()
+k = int(t[0])
+x = int(t[1])
+pos = binarySearch(a, x, lambda x, y: x < y, k)
+for num in a[pos: pos+k]:
+    print(num, end = " ")

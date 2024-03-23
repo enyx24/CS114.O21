@@ -1,0 +1,657 @@
+- Khi nào thì cần cần giải quyết các yêu cầu bằng phương pháp thông thường hay dùng các phương pháp Machine Learning ?
++  Rules: Nhiều, Khó mô tả  
++ Scalability
+=> Rules sẽ được học bởi máy tính -> code các giải thuật.
+- Phân loại phương pháp Machine learning:
++ Supervised: Regression , Classfication...
++ Unsupervised: Clustering...
+-Các thuật ngữ : Data set, Input , Output, Label...
+- Các ví dụ về các bài toán trên
+
+Thúy An Trương Huỳnh
+Mar 12
+Note buổi học 03:
+Thực hành:
+- Ôn lại cách tự tạo testcase, cách đo thời gian,
+- Giải đáp một số bài tập wecode
+
+Lý thuyết:
+- Cách nhận biết bài toán nên dùng Machine Learning, tại sao?
+- Traditional programming với Machine Learning
++ Traditional programming: input + program -> output
+    rules nhiều, khó mô tả
++ Machine Learning: input + ouput -> program
+    rules sẽ được học bởi máy tính -> code các giải thuật.
+...
+
+- Phân nhóm các thuật toán Machine learning:
++ Supervised: Regression , Classfication...
++ Unsupervised: Clustering...
+- Các thuật ngữ : Data set, Input , Output, Label...
+- Các ví dụ về các bài toán trên
+
+Note buổi học 04:
+Thầy An cho lớp làm bài Wecode
+
+Xuân Ánh Trần
+Mar 13
+1. Các vấn đề được trình bày: 
+thầy An nói về 1 số bài tập wecode
+thầy Duy nói về các từ khóa trong ML như supervised, unsupervised, classification, regression, cluster, R-L.
+2. Các kỹ năng được hướng dẫn:
+-Cách làm 1 số bài tập wecode.
+-Cách test case trên colab
+-Phân biệt các bài toán supervised và unsupervised. Giữa các bài classification và regression
+3. Em đã học thêm được:
+- Các bài toán unsupervised là kỳ vọng của tương lai, còn hiện tại thì kết quả của thuật toán khó áp dụng vào thực tế.
+- Các bài toán ML đa phần là classification
+- Em đã phân biệt được các nhóm thuật toán trong ML mà thầy đã hướng dẫn. 
+
+Võ Đại Lượng
+Mar 13
+Các vấn đề đã được trình bày:
+- Định nghĩa và các ứng dụng của máy học
+- Sự khác nhau giữa máy học và lập trình thông thường
+- Phân loại các thuật toán máy học: supervised, unsupervised, reinforced learning
+- Đặc điểm của máy học
+- Đặc điểm nhận dạng đâu là 1 bài toán có thể giải được bẳng máy học
+- Các ví dụ tương ứng với từng loại bài toán. 
+- Khi nào cần dùng máy học
+- Những bài toán nào giải được bài máy học, tại sao có và tại sao không
+- Quiz kiểm tra kiến thức đã học
+
+Các kỹ năng đã được hướng dẫn:
+- Phương pháp học tập trong tương lại: thực chiến sau đó học tập thông qua thực chiến và lý thuyết
+- Cách đo memory và các vấn đề liên quan tới memory trong các ngôn ngữ lập trình nói chung và python nói riêng
+- Cách xác định 1 bài toán Machine learning, các phân biệt giữa lập trình thông thường và máy học, khi nào dùng máy học khi nào dùng lập trình thông thường
+
+Em đã học thêm được những điều sau:
+- Bản chất của máy học và dataset
+- Phân biệt được sự khác nhau giữa máy học và lập trình thông thường và cách lựa chọn hướng giải quyết bài toán.
+- Phân biệt các loại bài toán trong máy học: clustering, classification, regression, ...
+
+Kiệt Trần Quang Anh
+Mar 13
+*****Ngày 11/03/2024******
+1/ Các vấn đề đã được trình bày:
+- ML là gì? Ví dụ trực quan về các bài toán áp dụng ML.
+- Các bài toán nào có thể và không thể áp dụng ML
+- Sự khác biệt giữa lập trình thông thường và lập trình ML
+
+2/ Các kỹ năng đã được hướng dẫn
+- Cách để đo thời gian chạy của một chương trình bằng Google Colab
+- Cách generate test case để chạy chương trình
+
+3/ Kiến thức mới được học thêm
+- Hiểu được các bài toán có thể và không thể áp dụng ML 
+- Các kĩ thuật sinh test case, đo thời gian chạy chương trình,...
+
+
+*****Ngày 18/03/2024******
+1/ Các vấn đề đã được trình bày:
+- Phân loại các thuật toán máy học (Supervised Learning và Unsupervised Learning)
+- Đi sâu vào các bài toán thuộc Supervised Learning( Regression và Classification) và Unsupervised Learning (Clustering)
+- Một số ví dụ về bài toán thuộc Regression và Classification
+- Làm một số câu hỏi trắc nghiệm để phân biệt các bài toán thuộc loại Regression hay Classification
+
+2/ Các kỹ năng đã được hướng dẫn
+- Cách để đo memory của một chương trình bằng Google Colab
+- Cách phân biệt các bài toán thuộc loại Supervised Learning và Unsupervised Learning
+
+3/ Kiến thức mới được học thêm
+- Biết được 2 loại thuật toán máy học mới và cách để phân biệt chúng.
+- Kĩ thuật đo memory của một chương trình
+
+Tài Nguyễn Phú
+Mar 13
+1. Đặc điểm của ML
+- Giúp máy tính học và đưa ra dự đoán mà không cần lập trình quá rõ ràng.
+- Bắt chước hành vi của con người.
+- Học từ data.
+ 2. Các loại thuật toán của ML
+- Supervised Learning: học từ labeled data, thường có 2 dạng là regression và classification.
+- Unsupervised Learning: học từ unlabeled data, dùng để "gom nhóm" (clustering) các dữ liệu mà con người khó có thể nhận ra bằng mắt thường.
+- Reinforcement Learning: thường dùng cho robot.
+3. Ứng dụng của ML
+- Phân loại mail rác.
+- Đề xuất sản phẩm.
+- Camera nhận dạng.
+4. Sự khác nhau giữa Traditional Programming và ML
+- Traditional Programming:
++ Phải đưa ra chỉ dẫn cho từng bước.
++ Nhiều rule, khó mô tả.
++ Khó bảo trì, nâng cấp.
+- Machine Learning:
++ Code các rule.
++ Dễ nâng cấp.
+
+* Các vấn đề đã được trình bày: Đặc điểm, phân loại, ứng dụng của ML, sự khác nhau giữa Traditional Programming và ML.
+- Các kỹ năng đã được hướng dẫn: Khi nào nên dùng ML và khi nào nên dùng Traditional Programming.
+- Bạn đã học thêm được gì MỚI: Khi nào nên dùng ML và khi nào nên dùng Traditional Programming.
+
+Đăng Phan Thanh
+Mar 14
+- Các vấn đề đã được trình bày:
++ Các bài toán trong máy học
++ Những đặc điểm của một bài toán máy học
++ So sánh giữa lập trình máy học và lập trình truyền thống
+- Các kỹ năng đã được hướng dẫn
++ Phân biệt, nhận biết các bài toán máy học hiện nay
+- Những thứ mới đã học được:
++ Những bài toán trong lĩnh vực máy học
++ Những đặc điểm để phân biệt một bài toán máy học so với các bài toán khác
++ Các loại bài toán trong máy học và ứng dụng thực tế của mỗi bài toán
+
+Linh Phạm Hồ Trúc
+Mar 14
+Buổi 03:
+- Vấn đề được trình bày: 
++ Đặc điểm của máy học? Bài toàn nào có thể giải bằng máy học
++ Các phân loại thuật toán?
++ Sự khác nhau giữa Traditional Prog và Machine Learning
+- Kỹ năng được hướng dẫn: cách sinh test case
+- Kiến thức mới được tiếp thu: hiểu rõ hơn về đặc tính của một bài toán giải bằng máy học và có sự phân biệt giữa Traditional Prog và Machine Learning
+
+Buổi 04:
+- Vấn đề được trình bày:
++ Khi nào ta dùng máy học? ( đối với những bài toán mà có nhiều quy luật, khó mô tả, thường xuyên có sự thay đổi mà nếu code trực tiếp thì phải thường xuyên thay đổi code)
++ Bản chất của việc giải một bài toán bằng Machine Learning: từ data và output qua quá trình học của máy tạo ra chương trình
++ Quy trình xây dựng một chương trình ML: cung cấp dữ liệu, cung cấp output và quá trình xây dựng, tính toán.
++ Phân loại ML: Supervised và Unsupervised
+     . Supervised dữ liệu đầu vào có gắn nhãn và Unsupervised dữ liệu học không có gán nhãn
+     . Supervised giải các bài toán Regression (cho kết quả là giá trị thực), Classification (phân loại thành các lớp)
+     . Unsupvised giải bài toán Clustering
+- Kỹ năng được hướng dẫn: cách đo thời gian một chương trình chạy
+- Kiến thức mới được tiếp thu: hiểu rõ về ML và cách ML được áp dụng vào giải bài toán thực tế.
+
+Ngân Đặng Thanh
+Mar 14
+11/3
+- Các vấn đề đã được trình bày
+Máy học là gì? “using data to answer question” Là máy tính tự học từ bộ dữ liệu. Ví dụ khi nhận dạng con chó hay con mèo, chúng ta sẽ truyền vào những hình ảnh con cho và mèo để máy tính học. Từ đó có thể xác định được chúng.
+Những bài toán cần có máy học là bởi vì khi tiếp cận bằng cách giải thông thường không giải quyết được hiệu quả triệt để. Ví dụ như khi lập trình con rùa đến thức ăn, khi áp dụng máy học thì chúng ta sẽ dùng mùi của thức ăn để lập trình cho co rùa, việc này sẽ hiệu quả hơn vì thức ăn có thể sẽ di chuyển sang chỗ khác.
+Máy học có input hay còn gọi là các dataset, dữ liệu được máy tính học, training dataset. Trong quá trình train là máy tính đăng học cách xây dụng model hay là các quy luật của tập dữ liệu từ đó có thể đoán để các input khác.
+- Các kỹ năng đã được hướng dẫn
+-Sử dụng Colab để tạo testcase
+-Cách biết được thời gian thực thi dòng lệnh trên Colab
+18/3
+- Các vấn đề đã được trình bày:
+Điểm khác nhau giữa Machine Learning và Traditional Programming. Traditional Programming là chúng ta sẽ truyển Data và lập trình để ra Output, nhưng trong ML chúng ta sẽ truyền Data và Output có sẵn, và máy tính tự tìm ra quy luật từ đó nó có thể dự đoán được các trường hợp khác.
+Tiêu chí một bài toán phải dùng Machine Learning là bài toán đó có nhiều rules và khó mô tả và yêu cầu tính mở rộng cao.
+Bài toán Machine Learning chia thành 3 loại là Supervised Learning (học có giám sát), Unsupervised Learning (học không giám sát) và Reinforement Learning (học tăng cường).
+Supervised Learning là ta sẽ truyền cho máy bộ dữ liệu có sẵn input và output từ đó sẽ tìm ra quy luật dữ trên dữ liệu có sẵn output đó. Chúng dự đoán kết quả từ các dữ liệu có nhãn. Supervised Learning gồm 2 loại là Classification (phân theo loại) hay Regression (Hồi quy), tính ra một giá trị thức.
+Unsupervised Learning chúng ta sẽ truyền một bộ dữ liệu không ouput, dữ liệu không gán nhãn. Từ đó, máy tính sẽ tự gom nhóm cho dữ liệu. Unsupervised Learning chì có 1 loại là Clustering (phân nhóm).
+Trong hai loại thì Supervised Learning được sử dụng phổ biến hơn hẳn do chúng ta có thể kiểm soát được output của chúng.
+- Các kỹ năng đã được hướng dẫn
+Sử dụng colab để kiểm tra chương trình chiếm bao nhiêu bộ nhớ.
+
+Hải Hồ Ngọc
+Mar 15
+khi nào dùng máy học lúc được cho bài toán, đặc điểm của ML ( rules được học từ máy tính -> code), traditional programming,...
+
+Hùng Nguyễn Thanh
+Mar 15
+11/3/2024
+Khi đề cập đến ML:
+- Đặc trưng của nó là gì?
+- Các ví dụ của ML?
+- Các loại thuật toán?
+- Lập trình truyền thống và ML khác nhau điểm nào?
+Keyword: learn from datasets
+Về input: 
+- Traditional programming sử dụng input để tạo ra output
+- ML sử dụng cả input và output để trích xuất ra được "pattern" hay "insight" và dùng chúng để dự đoán các kết quả tương lai.
+Traditional programming được xây dựng chặt chẽ dựa trên các rules
+ML được sử dụng cho các bài toán không thể xây dựng các rules. ML sử dụng data(training) và trả lời các question(making prediction)
+
+18/3/2024:
+Bài toán: Khi nào dùng ML -> Tại sao?
+Traditional Programming
++ rules ( nhiều + khó mô tả khi code)
++ scalability
+ML: rules sẽ được tìm ra bởi máy tính
+TP: data + code => output
+ML: data + output => program(code) => máy tìm ra
+ML:
++ supervised (classification and regression)
++ unsupervised - clustering
+Label data, unlabeled data
+Các bài toán ML:
+ẢNh -> cat or no cat
+diện tích nhà -> giá bao nhiêu
+ML là train máy tính-> cung cấp dữ liệu huấn luyện cho máy tính (training data)
+
+Phát Nguyễn Hùng
+Mar 16
+Note Buổi học 3 :
+*So sánh giữa traditional programing và machine learning:
++ Lập trình truyền thống có nhiều rules, và rất khó mô tả
++Máy học thì các rules sẽ được máy tìm ra thông qua việc code để máy tự học
+Phần đầu vào của program truyền thống đó là dữ liệu và phần mềm dẫn tới đầu ra là kết quả ta cần
+Nhưng ở máy học thì đầu vào là data và các kết quả của data đó và output là một máy học có thể dự đoạn và trả lời các output dự đoán từ các data mới cùng loại và khác với các data được train.
+
+*Phân loại các thuật toán máy học (Supervised Learning và Unsupervised Learning)
+- Đi sâu vào các bài toán thuộc Supervised Learning( Regression và Classification) và Unsupervised Learning (Clustering)
+- Một số ví dụ về bài toán thuộc Regression và Classification
+- Làm một số câu hỏi trắc nghiệm để phân biệt các bài toán thuộc loại Regression hay Classification
+
+*Các kỹ năng đã được hướng dẫn
+- Cách generate test case để chạy chương trình
+- Cách để đo time và memory của một chương trình bằng Google Colab
+- Cách phân biệt các bài toán thuộc loại Supervised Learning và Unsupervised Learning
+
+Dao Dương Đình Phương
+Mar 18
+Các vấn đề đã được trình bày:
+   - Đặc điểm của bài toán máy học:
+     + Dữ liệu: máy học dựa vào dữ liệu để học và đưa ra các predict (dự đoán), dự đoán một dữ 
+     liệu mới từ những dữ liệu đã có. Train (huấn luyện) cho máy tính bằng cách cung cấp dữ liệu 
+     huấn luyện (training data)
+     + Việc lập trình máy học không cần phải lập trình cụ thể để thực hiện một nhiệm vụ cụ thể 
+     mà học từ dữ liệu và phân tích dữ liệu.
+     + Ví dụ về bài toán máy học: 
+	  Mô tả: dự đoán giá của các căn nhà dựa trên các đặc trưng như diện tích, số phòng ngủ, 
+          số phòng tắm, vị trí và tuổi của căn nhà
+	  Dữ liệu: tập dữ liệu chứa thông tin của các căn nhà đã bán trong quá khứ
+     + Trong khi lập trình truyền thống (Traditional Program) gặp vấn đề với một số bài toán như 
+     không thể thích ghi, output cố định, có nhiều rules và khó có thể mô tả các rules. Vì vậy cần 
+     tìm ra một cách tiếp cận mới – Machine Learning. Đối với máy học, các rules sẽ được học và 
+     tìm ra bởi máy tính thông qua một thuật toán của con người.
+   - Phân loại thuật toán Machine Learning:
+     + Supervised Learning (học có giám sát): các dữ liệu huấn luyện đã được gán nhãn (labled 
+     data), bao gồm các bài toán hồi quy (Regression), phân loại (Classification).
+     + Unsupervised Learning (học không giám sát): các dữ liệu huấn luyện không được gán nhãn 
+     (unlabled data), bao gồm các bài toán phân cụm (clustering)
+     + Reinforcement learning (học tăng cường)
+     …
+Các kỹ năng đã được hướng dẫn:
+     Kỹ năng sử dụng colab, sinh testcase, cài thư viện để đo lường thời gian và bộ nhớ đã sử 
+     dụng cho bài toán.
+Học thêm điều mới: 
+     Kỹ năng điều khiển một máy chủ ảo thông qua colab.
+
+Yến Phương Hoàng
+Mar 18
+Note 11/3/2024
+1. Các vấn đề đã được trình bày:
+- Khi nào dùng Machine Learning để giải quyết vấn đề? Tại sao?
+   + Trả lời câu hỏi bằng cách so sánh giữa lập trình truyền thống (Traditional Programming) và Machine Learning
+      * Traditional Programming: tìm ra các quy luật(rule) của mỗi bài toán và mô tả bằng code, ứng với mỗi bài toán sẽ có các rule khác nhau, kể cả với các bài toán có chung 1 vấn đề, từ đó phát sinh nhiều trường hợp, nhiều rule. Không có khả năng mở rộng.
+      * Đưa ra ví dụ về nhận dạng, hình ảnh, hình dạng của mèo lá rất rất nhiều, mỗi hình ảnh lại phải tìm ra rule , một số trường hợp đặc biệt không thể áp dụng , tính tổng quát hóa không cao nếu sử dụng lập trình truyền thống
+      * Machine learning: là khả năng máy tính tự học /tìm ra các rules. không cần code cụ thể, tập trụng vào sử dụng dữ liệu. Yêu cầu 1 lượng lớn data có cả đầu vào và đầu ra, quy trình: thu thập, xử lí, lựa chọn mô hình, huấn luyện
+   + So sánh bằng biểu đồ
+	* Traditional programming: Data + Programming = Output
+	* Machine learning: Data + Output = Program
+   + Một đặc trưng của bài toán Machine learning là lượng data lớn
+- Sơ đồ phân loại:
+Problem - Traditional Programming
+	        - Machine learning - supervised learning
+			                          - unsupervised learning
+     			                          - reinforcement learning
+ + Supervised learning: bài toán có output rõ ràng, tiêu biểu gồm bài toán regression (hồi quy) và classification. Đăc biệt là bài toán classification được ứng dụng nhiều. Bài toán classification có đặc điểm là output của nó là các số nguyên, regression có output là các số thực
+vd: classification: nhận dạng ảnh chó méo, nhận dạng chữ viết tay ; regression: dự đoán giá nhà
+ + Unsupervised learning: là bài toán không có output rõ ràng, tồn tại unlabel data, có các bài toán như gom cụm (clustering), phát hiện bất thường (anomaly detection)
++ Reinforcement : tự học bằng cách thực hiện các hành động (Action) và nhận phan hồi từ MT để chỉnh sửa
+2. Các kĩ năng mới:
+- Cách học với chatbot: hỏi chatbot( Gemini, ChatGPT) ví dụ minh họa mỗi khi học 1 khái niệm mới
+- Cách giải quyết timelimit trên wecode
++ Tính time cố định (time cần cho các thao tác cố định như nhập xuất)
++ Coi thử còn dư bao nhiều thời gian để tính toán thuật toán
++ Một số câu lệnh thao tác file trong python: !python <tên file>.py > <tên file>.txt: chạy vào lưu kết quả vào file txt, !time python out.py <input : in ra thời gian chạy 
+3. Bài học cho bản thân:
+- Có cái nhìn tổng quan về các bài toán trong thực tế và trong machine learning
+- Phân biệt lập trình truyền thống và Machine learning, từ đó lựa chọn phương án giải quyết vấn đề phù hợp. Không phải lúc nào ML cũng tốt hơn, và một số vấn đề ML thật sự làm tốt hơn so với lập trình truyền thống
+- Hiểu biết thêm về Machine learning xưa và nay. Các bài toán ML hiện này đã từng được phát triển và mô tả bằng lập trình truyền thống, sau đó mới được thay thế bằng ML do hiệu suất tối ưu
+- Học các khái niệm của machine learning, biết phân loại vấn đề vào các bài toán trong ML
+- Data trong bài toán Machine learning là rất quan trọng, và 1 đặc điểm của ML là không có độ chính xác tuyệt đối
+- Học cách tối ưu thời gian và tính toán thời gian khi giải quyết vấn đề, phục vụ cho việc sử dụng wecode
+- Học kĩ năng tự học có hỗ trợ từ chatbot
+Note 18/3/2024:
+1. Các vấn đề được trình bày
+- Thông báo assigment 4 làm quen với python trên wecode
+- Giái đáp thắc mắc về các bài tập thực hành
+2. Các kĩ năng:
+- Kĩ năng search hàm, thư viện trong python
+- Giới thiệu về thư viện heap để xây dựng cây heap phục vụ bài toán sắp xếp
+- Kĩ năng  tự tìm ra và xây dựng test case khi đề không cho
+3. Bài học bản thân
+- Khả năng tự học và tìm kiếm thư viện, hàm
+- Khả năng giải quyết vấn đề và tư duy lập trình qua bài tập thực hành wecode
+- Làm quen với các TH hi hữu trong bài toán với nhiều test case
+- Khả năng xây dựng bộ test case và kiểm thử
+
+Quân Nguyễn Đình
+Mar 18
+* Buổi học 03 (11/03/2024)
+- Các vấn đề đã được trình bày:
++ Khi nào dùng Machine Learning? Tại sao?
++ Trong Traditional programing có nhiều rules và khó mô tả. Ngược lại trong Machine Learning những rules sẽ được học hoặc tìm ra bởi máy tính.
++ Cách thức hoạt động của Traditional programing và Machine Learning (Hình ảnh minh họa).
++ Machine Learning gồm Supervised Learning, Unsupervised Learning, Reinforcement Learning.
++ Supervised Learning gồm Regression và Classification 
++ Unsupervised Learning gồm Clustering 
++ Những ví dụ minh họa của Supervised Learning và Unsupervised Learning.
+- Các kỹ năng đã được hướng dẫn:
++ Kỹ năng giải quyết những vấn đề, những trường hợp nào chúng ta nên sử dụng Machine Learning và những trường hợp nào không.
+- Em đã học thêm được:
++ Sự khác nhau giữa Supervised và Unsupervised, Supervised có từ khóa là labeled data còn Unsupervised là unlabeled data.
++ Trong Machine Learning từ khóa quan trọng là data.
+* Buổi học 4 (18/03/2024)
+- Các vấn đề đã được trình bày:
++ Thực hành code một số bài toán.
++ Giới thiệu một số thư viện trong python.
++ Những cách để giải quyết bài toán trong python.
+ - Các kỹ năng đã được hướng dẫn: 
++ Kỹ năng xử lý những vấn đề thường gặp khi code trong python.
+- Em đã học thêm được:
++ Những cách đo thời gian trong python.
+
+Bảo Trịnh Quốc
+Mar 19
+11/3:
+Biết về khái niệm traditional programing:
+output cố định, rules: nhiều khó mô tả- > code, scalability
+
+machine learning làm việc với data, nó sẽ được học và tìm ra quy luật bới máy tính nhưng vẫn code.
+
+supervised gồm 2 phần chính là :
+Regression -> real value giá trị liên tục
+classification theo dạng kiệt kê giá trị ròi rạc như 0,1:
+gồm binary hay multi
+unsupervised : clutering,... dữ liệu không biết trước được label.
+
+18/3: Làm bài tập wecode trao dồi kĩ năng thuật toán và hiểu rõ hơn về heap sort.
+
+My Cao Huyền
+Mar 20
+Ngày 11/03/2024:
+* Các vấn đề đã được trình bày:
+- 1 bài toán -> Khi nào dùng Machine Learning? Tại sao?
++ Traditional programming:
+. Rules: nhiều, khó mô tả
+. Scalability
+. Data + Program -> Output
++ Machine Learning:
+. Rules sẽ được học/tìm ra bởi thuật toán (code)
+. Data + Program -> Program
+- Machine Learning:
++ Supervised: 
+. Regression -> real value: Diện tích nhà (input) -> Giá (output)
+. Classification -> liệt kê (rời rạc): Ảnh -> Cat or No_Cat
+. Label Data: Pair {Input (ảnh), Output (0 or 1 (Cat))}
++ Unsupervised: Clusterting
+Ví dụ: 100 tin trên BaoMoi
+// Các bài toán:
+ . Đưa vào X -> Cho biết thuộc loại gì? (kinh tế, chính trị, thể thao...)
+     X1: kinh tế
+     X2: chính trị       -> rules -> Supervised
+     X3: thể thao
+ . Đưa vào X1, X2, X3...., X100 -> Các cluster tin là gì? -> Unsupervised
++ Reinforcement
+* Các kĩ năng đã được hướng dẫn: Đo đạc bộ nhớ, thời gian chạy chương trình 
+* Học thêm được ĐIỀU MỚI: Hiểu rõ hơn về các bài toán về Machine Learning, biết cách đo đạc bộ nhớ, thời gian chương trình Python. 
+
+
+Ngày 18/2/2024: Làm bài tập Wecode
+* Các vấn đề đã được trình bày: Một số hướng giải quyết bài tập Wecode
+* Các kĩ năng đã được hướng dẫn: Đo đạc bộ nhớ và thời gian chạy chương trình
+* Học thêm được ĐIỀU MỚI: Biết thêm các thư viện mới: heapq, bisect
+
+Phúc Nguyễn Hoàng
+Mar 20
+Buổi 3:
+* Vấn đề đã được trình bày:
+   - Traditional programming: Rules: nhiều, khó mô tả, Input + Program -> Output
+   - Machine Learning: Được học dựa vào dữ liệu và tìm ra quy luật bởi máy tính mà không cần lập trình rõ ràng, có thể đưa ra dự đoán dựa vào mẫu dữ liệu đó.
+  - 2 loại bài toán thường gặp trong Machine Learning:
+     + Supervised: Regression (dự đoán giá nhà), Classification (phân loại chó mèo)
+     + Unsupervised: Clusterting
+ - Viết code sinh testcase, đo thời gian chạy 
+ - Giải đáp thắc mắc 1 số bài wecode
+
+* Các kĩ năng đã được hướng dẫn: Đo đạc bộ nhớ, thời gian chạy chương trình, làm các bài tập với kiến thức hiện có sau đó xem lại bài mình làm được đến đâu và cần học thêm gì để cải thiện.
+
+* Học thêm được điều mới: Hiểu rõ hơn về các bài toán về Machine Learning, biết cách đo thời gian chạy của chương trình Python, nhận dạng được các loại bài machine learning.
+
+Buổi 4:
+- Các vấn đề đã được trình bày: Một số bài toán sắp xếp và làm bài tập sort trên wecode
+- Các kĩ năng đã được hướng dẫn: Sử dụng thư viện cho 1 số trường hợp thay vì code 
+- Học thêm được ĐIỀU MỚI: Biết thêm các thư viện mới: heapq phục vụ cho heap sort
+
+Trường Đinh Nhật
+Mar 20
+học được khi nào nên dùng machine learning
+các loại machine learning
+các cách đo đạc test case trong bài tập lập trình
+học thêm các thư viện trong python
+
+Nguyễn Khánh
+Mar 20
+-Cho 1 bài toán -> Khi nào dùng ML -> Tại sao?
+-Traditional Programing: Rules nhiều -> Khó mô tả -> Khó code
+-Machine Learning: Rules sẽ được học/tìm ra bởi máy tính -> Việc của lập trình viên là code để máy học.
+-Thực hành: Heap sort và các thuật toán sắp xếp. Dùng thư viện Heap trong Python.
+- Phân nhóm các thuật toán Machine learning: Supervised, Unsupervised
+- Các thuật ngữ : Dataset, Label...
+- Các ví dụ minh họa
+
+Tâm Nguyễn Vũ Khai
+Mar 21
+* Note buổi học thứ 3:
+---Thực hành:
+- Ôn lại cách tự tạo testcase, cách đo thời gian
+- Giải đáp một số bài tập wecode
+---Lý thuyết:
+1) Bài toán -> Khi nào code thông thường (traditional programming) khi nào code Machine learning. Tại sao? 
+- Các đặc điểm của bài toán sử dụng Machine Learning: rules nhiều, khó mô tả. Rules sẽ được học, được tìm ra bởi máy tính thông qua code.
+- Các đặc điểm của bài toán sử dụng Traditional Programming: ít rules hơn, có thể sử dụng các công thức cố định được lập trình sẵn để xử lý các logic, khó mở rộng (scalability).
+- Ví dụ về việc phân biệt ảnh có mèo: cho các tấm hình, lập trình sao cho trả về 0 hoặc 1:
++ Traditional Programming: data + program -> Output
++ Machine Learning: Data + Output -> Program (mô tả cách học của con người). 
+2) Problems:
+- Traditional Programming: 
+- Machine Learning: 
++ Supervised learning (labeled data): Train cho máy tính bằng cách cung cấp dữ liệu huấn luyện training bao gồm cả đầu vào và đầu ra đã được gán nhãn.
+        _ Classification (binary, category). Ví dụ các bài toán phân loại ảnh có mèo hay không.
+        _ Regression (real-value). Ví dụ cung cấp diện tích và dự đoán giá nhà.
++ Unsupervised learning: Xử lý dữ liệu không được gán nhãn unlabeled data (K-means, clustering, dimensionality reduction). Ví dụ đưa vào 100 tin X1, X2, X3,..., X100 -> các cluster tin là gì?
++ Reinforcement learning: Mô hình học tăng cường học cách thực hiện các hành động dựa trên việc tối ưu hóa một số phần thưởng thông qua thử nghiệm và sai lầm
+3) Quiz kiểm tra kiến thức đã học
+
+* Note buổi học thứ 4:
+- Thầy An cho làm bài tập trên wecode
+
+Nguyễn Duy Tâm Anh
+Mar 21
+- Các vấn đề được trình bày:
+	+ Khi nào sử dụng ML và Tại sao?
+	+ Một số hạn chế của Traditional Programminh
+	+ Đặc điểm của ML Traditional Programming
+	+ Đặc điểm của bài toán toán ML
+	+ Bài toán con rùa mù và bó bắp cải.
+	+ Supervised learning và Unsupervised learning.
+	+ Thực hành wecode assignment 4: Cách sử dụng thư viện. 
+- Các kỹ năng đã được hướng dẫn:
+	+ Cách học với chatbot
+	+ Phân biệt bài toán supervised và unsupervised.
+	+ Một số ví dụ về các bài toán regression và classifcation và clusfeting
+
+- Đã học thêm được:
+	+ Các nhận biết các bài toán trong ML.
+	+ Hiểu các tư duy cho bài toán ML.
+
+Bảo Lê Trần Gia
+Mar 22
+* Các vấn đề đã được trình bày:
+ 1/ Bài toán khi nào dùng Machine Learning, tại sao phải dùng Machine Learning?
+    - Traditional programming: rule nhiều, khó mô tả, scalability => Machine Learning: rule sẽ được học và tìm ra bởi máy tính.
+    - Ví dụ phân loại hình con mèo:
+	+ Traditional programming: data + code -> output (Cat hoặc No-Cat)
+	+ Machine Learning: data + output -> rule
+ 2/ Problem:
+    - Traditional programming
+    - Machine Learning:
+        + Supervised Learning (labeled data): Regression, Classification
+  	+ Unsupervised Learning (unlabeled data): Clustering, Dimensionality Reduction
+	+ Reinforcement Learning
+	+ Train cho máy tính bằng training data
+* Kỹ năng đã được hướng dẫn: thầy An đã hướng dẫn cách tự tạo ra test case cho từng bài toán bằng Google Colab.
+* Em đã học được thêm cách dùng Google Colab để đo thời gian chạy code, tạo test case cho bài toán.
+
+Quân Thái Ngọc
+Mar 22
+Đối với một bài toán, khi nào sử dụng Machine Learning?
+Sự khác nhau giữa Traditional Programming và Machine Learning: TP phải xác định các quy rules khi code, khi bài toán trở nên lớn hơn các rules trở nên phức tạp và khó miêu tả. Lúc này, ML sẽ tìm các rules đó.
+Một số loại dạng bài toán máy học và thuật toán: Supervised (Regression, Clasification), Unsupervised (Clustering, ...)
+Cách đo bộ nhớ sử dụng bởi chương trình python
+Phương pháp tư duy, tiếp cận thuật toán
+Em đã học được: Đặc điểm của bài toán có thể sử dụng Machine Learning, Input/Output của bài toán. Cách đo bộ nhớ chương trình sử dụng, tư duy thuật toán
+
+Sử Trần Giang
+Mar 22
+Buổi 3 và buổi 4 lần lượt là buổi học lí thuyết và thực hành
+Trong buổi 3 đã đề ra vấn đề: với bài toán, khi nào dùng machine learning và tại sao?
+ - Với những bài toán có nhiều rules và khó mô tả, maching learning được ưu tiên và các rules của bài toán sẽ được học/tìm ra bởi máy tính.
+ - Ta đã được tiếp cận với 2 khái niệm:
+      + Đầu tiên là  supervised ( gồm regression và classfication - lần lượt là hồi quy và liệt kê), đây là cách học máy khi ta có các pair (input và output) - nghĩa là ta biết data input và output của từng input tương ứng, sau đó train cho máy bằng việc cung cấp các dữ liệu huấn luyện trên và máy sẽ tìm ra các rules. 
+     + Thứ 2 là unsupervised (clustering), đúng như tính chất của nó là phân cụm. Xử lí các bài toán khi ta chưa biết các output, máy sẽ tự động tìm những điểm chung trong dữ liệu và chia các dữ liệu đầu vào thành từng nhóm.
+*** Để dễ dàng hình dung hơn, với dữ liệu là 100 bài báo trên 1 web báo:
+- Nếu yêu cầu bài toán là cho 1 bài báo và hỏi cụ thể bài báo đó thuộc loại báo gì, bài toán sẽ thuộc về supervised, khi ta cần pair là các bài báo và thể loại báo tương ứng cho bài đó nhằm huấn luyện cho máy biết được đặc điểm của từng thể loại báo ( rules)
+- Nếu yêu cầu của bài toán là cho 100 bài báo đó và yêu cầu cho biết các cluster (phân nhóm loại báo), thì bài toán sẽ thuộc về unsupervised, khi mà máy sẽ tự phải khám phá các bài báo, tìm các điểm tương đồng giữa các bài báo và chia nhóm.
+Trong buổi 4 là các tiết thực hành, đã được giao và thực hiện các bài code về search và sort, đề ra các mục tiêu là tư duy xử lí giải quyết bài toán, chọn lựa thuật toán, tối ưu chương trình mình thực hiện.
+ 
+
+Nhật Trần Vũ
+Yesterday
+Lí thuyết
+- Ta sẽ dùng đến machine learning để giải quyết các bài toán khi traditional programming khó giải quyết các bài toán có nhiều rule và khó mô tả
+- Nhờ machine learning thì các rule sẽ được tìm ra bởi máy tính dựa vào dataset 
+- Supervised learning gồm có bài toán regression, classification học dựa trên các labeled data
+- Unsupervised học trên các unlabeled data có bài toán clustering dùng để gom nhóm dữ liệu 
+Thực hành
+- Cách đo thời gian đoạn code để tìm ra phương pháp tối ưu phù hợp 
+- Sử dụng các hàm có sẵn một cách linh hoạt
+
+Tân Phạm Huỳnh Nhật
+Yesterday
+
+Buổi 3 và 4 của khóa học này tập trung vào lý thuyết và thực hành về Machine Learning (ML). Trong buổi 3, chúng ta đã thảo luận về quá trình quan trọng của việc quyết định khi nào nên sử dụng Machine Learning cho một bài toán cụ thể và lý do tại sao.
+
+Machine Learning thường được ưu tiên cho những bài toán phức tạp có nhiều quy tắc và khó mô tả. Trong các trường hợp như vậy, máy tính có thể học và tìm ra các quy tắc từ dữ liệu.
+Học được 2 định nghĩa:
+Học có giám sát (supervised) bao gồm hồi quy (regression) và phân loại (classification).Mục tiêu là huấn luyện máy tính dựa trên dữ liệu huấn luyện để tìm ra các quy tắc.
+Học không giám sát (unsupervised) bao gồm việc phân cụm (clustering). Đây là phương pháp khi chúng ta không có thông tin về đầu ra. Máy tính tự động phân loại dữ liệu đầu vào thành các nhóm dựa trên sự tương đồng.
+Trong buổi 4, chúng ta thực hành việc viết mã về tìm kiếm và sắp xếp. 
+
+Khôi Đỗ Minh
+Yesterday
+- Cách tiếp cận để giải một bài toán được tăng cấp dần, từ cách mọi người phân tích một rule based nào đó của một vấn đề và giải quyết đến việc tiếp cận học máy, để máy tính có thể tìm ra được các rule dựa vào số lượng dữ liệu chúng ta đưa vào và giải quyết bài toán.
+- Học máy được chia ra làm 2 loại là:
++ Học máy có giám sát(Supervised Learning): Bao gồm các bài toán phân loại, hồi quy, ...
++ Học máy không giám sát (Unsupervised Learning): Bao gồm các bài toán phân cụm, ...
+- Kỹ năng tiếp cận giải quyết một bài toán theo hướng nut and bolts nhất và tiến dần về cách trừu tượng hoá vấn để và tổng quát hoá bài toán
+
+THIỆN TRƯƠNG HỒ PHƯỚC
+Yesterday
+Machine Learning được sử dụng cho các vấn đề mà khó khái quát đc các rule, máy tính sẽ tự tìm rules thông qua tranning data được cung cấp
+Machine Learning là máy tính mô phỏng lại quá trình học tập củ con người.
+Có 2 loại Machine Learning là học máy có giám sát và học máy không có giám sát. Trong học máy có giám sát có 2 loại chính là classification và regression, input là 1 đối tượng và output sẽ là 1 label có trong dataset hoặc là 1 số nằm trong khoa hử của tranning data. Còn học máy không có giám sát thì có clustering, input sẽ là nhiều đối tương và output sẽ là các nhóm các đối tượng của input có liên quan với nhau.
+Sau này trong quá trình đi làm thì công việc tốn nhiều công sức nhất là thu thập dataset.
+
+Hoàng Hà Huy
+Yesterday
+Buổi 3:
+- Cách tự tạo testcase, cách đo thời gian,
+- Cách nhận biết bài toán nên dùng Machine Learning.
+- Traditional programming với Machine Learning khác nhau chỗ nào?
+ + Traditional Programming: Dựa trên việc viết mã cụ thể để giải quyết vấn đề. Cần xác định rõ luật logic và quy tắc.
+ + Machine Learning: Học từ dữ liệu và tự điều chỉnh. Không cần viết mã cụ thể cho từng trường hợp.
+- Xem các bài giảng trên coursera
+- Phân loại các thuật toán Machine learning: Supervised (Regression, Classification) và Unsupervised (Clustering).
+- Hiểu thêm các thuật ngữ : Data set, Input , Output, Label...
+- Xem các ví dụ về các bài toán trên
+
+Buổi 4:
+- Thông báo assigment 4 làm quen với python trên wecode
+- Giái đáp thắc mắc về các bài tập thực hành
+- Kĩ năng search hàm, thư viện trong python
+- Giới thiệu về thư viện heap để xây dựng cây heap phục vụ bài toán sắp xếp
+- Kĩ năng  tự tìm ra và xây dựng test case khi đề không cho
+
+Rút ra bài học:
+- Khả năng tự học và tìm kiếm thư viện, hàm
+- Khả năng giải quyết vấn đề và tư duy lập trình qua bài tập thực hành wecode
+- Làm quen với các TH hi hữu trong bài toán với nhiều test case
+- Khả năng xây dựng bộ test case và kiểm thử
+
+Nguyên Lâm Hưng
+Yesterday
+*11/03/2024
+Khi có một bài toán đưa ra thì khi nào dùng Machine Learning và lý do tại sao?
+- Đối với Traditional Programming
++ Để giải quyết được một bài toán thì trước hết chúng ta phải có những rules, và khi mô tả sẽ thực thi bằng code.
++ Và cái thứ hai là scalability.
+- Nhưng có vô vàn biến thể, và đối với mỗi biến thể thì lại phải tìm ra những cái rules khác => sẽ rất mất công và tốn thời gian
+- Vì thế ta mới cần sử dụng đến Machine Learning
+- Và khi giải quyết các bài toán thì các rules sẽ được học và tìm ra bởi máy tính.
+- Traditional Programming thì khi ta có data và program thì sẽ cho ra output.
+- Còn với Machine Learning thì khi ta có data và output thì sẽ cho ra program và từ program này với cùng loại data thì sẽ cho ra output.
+- Machine Learning mô phỏng cách học của con người bằng các data và output đưa vào machine để learning
+- Và trong máy học ta có các khái niệm:
++ Supervised: 
+   * Regression -> Real value
+   * Classification -> Liệt kê
++ Unsupervised - Clustering
++ Supervised thì sẽ có Labelled data
++ Unsupervised sẽ có Unlabelled data
+*18/03/2024
+Em chủ yếu được học và tiếp thu thêm những kiến thức về thực hành của thầy An.
+Thầy mở thêm bài tập 4: Giờ là sort... và list, và cho cả lớp làm, hướng dẫn thêm về cách tối ưu thời gian thực thi chương trình và các tự sinh ra các test để thử và so sánh với các thuật toán khác nhau xem thuật toán nào tối ưu nhất trong những cases đó.
+
+Với tiết lý thuyết thì em được ôn lại và hiểu sâu hơn về những khái niệm trong Machine Learning về học có giám sát và không có giám sát. 
+Còn về tiết thực hành thì em được học cách tự tạo ra các tập mẫu để xử lý và tối ưu hóa thuật toán dành cho các study case đó, cũng như là tìm hiểu được thêm nhiều thư viện có sẵn trong python có thể dùng để tối ưu chương trình.
+
+Sơn Trần Thượng Trường
+Yesterday
+- Sự khác nhau giữa traditional programming và machine learning:
+        + Traditional programming : viết chi tiết từng bước, lời giải cụ thể. Input của truyền thống là các rules và dữ liệu để cho ra output lời giải cho vấn đề. Có rất nhiều rules nên khó mô tả, khó code, khó mở rộng ra các bài toán tổng quát
+        + Machine Learning : Mô phỏng cách học của con người. Input của ML là data và lời giải để máy tính tự học, tự tìm ra các rules qua các thuật toán machine learning mà các thuật đó là do con người lập trình ra.
+- Các đặc điểm của machine learning:
+        + Cần nhiều data : có nhãn hoặc không có nhãn
+        +Nhiệm vụ : Phân loại(Classification), hồi quy (Regression), gom nhóm (clustering)
+        + Các phương thức : Supervised Learning (Học có giám sát), Unsupervised Learning (Học không giám sát), Reinforcement Learning (Học Củng Cố)
+- So sánh supervised learning với unsupervised learning:
+       + Supervised Learning : các data thường được gắn nhãn. Chúng ta biết được kết quả của mô hình có thể kiểm tra đúng sai. Thường dùng để phân loại một số hữu hạn nhóm. Supervised learning là nhóm phổ biến nhất trong các thuật toán Machine Learning.
+       + Unsupervised Learning : các data không có nhãn. huật toán unsupervised learning sẽ dựa vào cấu trúc của dữ liệu để thực hiện một công việc nào đó, ví dụ như phân nhóm (clustering) hoặc giảm số chiều của dữ liệu (dimension reduction) nhưng chúng ta không biết câu trả lời chính xác của data đầu vào nên thuật toán này chưa được phổ biến hiện nay
+
+Nam Huỳnh Khải
+12:32 AM
+Problem -> Decompose -> Syntax or Algo (If Syntax -> When to use and How
+
+Nhân Nguyễn Trọng
+1:30 AM
+Ngày 11/03:
+- Các vấn đề được trình bày:
++Các đặc điểm của các bài toán giải bằng Machine Learning vs Traditional Programming
+TP:
+	Lập trình thẳng các quyết định vào trong chương trình -> không thể thích nghi với các tình huống khác nhau, rules là cố định
+ML:
+	Đưa vào một loạt dữ liệu theo thời gian để agent tự nhận biết được đặc điểm, không cần phải tự lập trình, máy tính sẽ tự tìm ra rules, học nó và đưa ra predict theo rules đã học.
+VD: Nhận diện gương mặt, TP sẽ lập trình rằng mình có tóc như thế nào, mặt mũi ra sao, còn ML sẽ phải tự nhận diện những đặc điểm của gương mặt đó.
++Phân loại các thuật toán ML
+Tự học có giám sát
+	Phân loại (Classification)
+	Hồi quy (Regression)
+Tự học không giám sát:
+	Phân nhóm (Clustering)
+	Giảm chiều (Dimension Reduction)
+Học tăng cường
+- Các kỹ năng được hướng dẫn: Sử dụng google colab, sử dụng thư viện đo tài nguyên hệ thống sử dụng cho chương trình.
+- Điều mới học được: Các dùng một số thư viện os, io, sys trong python, tầm quan trọng của thời gian chạy.
+Ngày 18/03:
+- Các vấn đề được trình bày:
++ Tầm quan trọng của tài nguyên bộ nhớ trong chương trình.
++ Nhắc lại về một số cấu trúc dữ liệu và giải thuật cũ.
++ Sử dụng thư viện python để cài đặt các ctdl đó
+Các kỹ năng được hướng dẫn: Đo bộ nhớ chiếm dụng, sử dụng các thư viện built-in
+Điều mới học được: Thư viện mới, cấu trúc dữ liệu và giải thuật mới, cách đọc document về thư viện.

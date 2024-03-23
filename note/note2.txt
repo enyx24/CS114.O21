@@ -1,0 +1,22 @@
+1. Các đặc điểm của các bài toán giải bằng Machine Learning vs Traditional Programming
+TP:
+	- Lập trình thẳng các quyết định vào trong chương trình
+ML:
+	- Đưa vào một loạt dữ liệu theo thời gian để agent tự nhận biết được đặc điểm, không cần phải tự lập trình
+VD: Nhận diện gương mặt, TP sẽ lập trình rằng mình có tóc như thế nào, mặt mũi ra sao, còn ML sẽ phải tự nhận diện những đặc điểm của gương mặt đó.
+
+2. Data là phần chính của ML, hãy giải thích sự liên hệ giữa Big Data và Deep Learning
+
+3. Phân loại các thuật toán ML
+- Tự học có giám sát
+	+ Phân loại (Classification)
+	+ Hồi quy (Regression)
+- Tự học không giám sát:
+	+ Phân nhóm (Clustering)
+	+ Giảm chiều (Dimension Reduction)
+- Học tăng cường:
+	
+
+3. Các ứng dụng minh hoạ
+
+4. Tại sao AI, ML (Machine Learning), DL (Deep Learning) đang được quan tâm rất nhiều trong những năm gần đây?

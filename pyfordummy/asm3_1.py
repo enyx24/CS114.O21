@@ -16,14 +16,15 @@ def binarySearch(a, x, comp):
     return ans
 
 n = int(input().decode())
-a = []
-a = [int(num) for num in input().decode().split()]
+a = {}
+t = input().decode()
+for i in range(n):
+    x = t.find(' ')
+    a.update({int(t[:x]): i})
+    t = t[x+1:]
 m = int(input())
-d = {}
 for num in input().decode().split():
-    if num in d:
-        ans = d[num]
+    if int(num) in a:
+        print(a[int(num)])
     else:
-        ans = binarySearch(a, int(num), lambda x, y: x <= y)
-        d.update({num: ans})
-    print(ans)
+        print(-1)
